@@ -5,6 +5,6 @@ date:   2022-04-23 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+<img src="fig/sphere.jpeg" width="300" height="300">
 
 Instrumentation

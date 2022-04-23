@@ -1,6 +1,13 @@
+@import "default_colors";
+
+$body-background: $cod-grey !default;
+$body-foreground: $gallery !default;
+
 /**
+
  * Icons
  */
+
 .icon {
 
     > svg {

@@ -2,7 +2,7 @@
 layout: post
 title:  "Instrumentation"
 date:   2022-04-24 15:39:40
-preview: "fig/sphere.jpeg" height="300"
+preview: fig/sphere.jpeg
 ---
 
 

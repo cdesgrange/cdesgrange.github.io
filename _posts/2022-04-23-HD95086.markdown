@@ -5,7 +5,7 @@ date:   2022-04-23 20:09:00
 preview: fig/HD95086_overview.png
 ---
 
-<img src="fig/HD95086_overview.png" width="300" height="300">
+<img src="/fig/HD95086_overview.png" width="300" height="300">
 
 HD 95086 b is an exoplanet of 4-5 Jupiter masses discovered with the instrument NaCo at the Very Large Telescope in Chile (Rameau+2013a).
 

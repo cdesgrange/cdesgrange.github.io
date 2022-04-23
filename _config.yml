@@ -1,7 +1,7 @@
 # Site settings
 title: Célia Desgrange
 email: celia.desgrange@universite-grenoble-alpes.fr
-email: desgrange@mpia.de
+#email: desgrange@mpia.de
 description: > # this means to ignore newlines until "baseurl:"
   Website in progress
   #It will appear in your document head meta (for Google search results) and in your feed.xml site description.

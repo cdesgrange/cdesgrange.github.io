@@ -20,7 +20,7 @@ input[type='url'],
 textarea,
 select {
 	appearance: none; // Removes awkward default styles on some inputs for iOS
-	background-color: transparent;
+	background-color: $color-secondary;
 	border: .1rem solid $color-quaternary;
 	border-radius: .4rem;
 	box-shadow: none;

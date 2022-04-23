@@ -1,5 +1,4 @@
-# urban-theme
+# Personal website
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
-
-Live-Demo: https://narkotyk.netlify.app
+This website uses the Jekyll theme 'urban' available on Github. 
+The website is in construction.

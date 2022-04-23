@@ -6,5 +6,3 @@ preview: holder.js/300x300?auto=yes
 ---
 
 <img src="HD95086_overview.png" width="300" height="300">
-
-HD 95086, a young Solar system analog

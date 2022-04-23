@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Planetary system characterization"
+date:   2022-04-23 20:09:00
+preview: fig/HD95086_overview.pdf
+---
+
+<img src="HD95086_overview.pdf" width="300" height="300">

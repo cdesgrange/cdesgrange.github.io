@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "HD95086 b a directly imaged exoplanet"
+title:  "HD95086"
 date:   2022-04-23 20:09:00
-preview: HD95086_overview.png
+preview: "HD95086_overview.png"
 ---
 
 <img src="HD95086_overview.png" width="300" height="300">

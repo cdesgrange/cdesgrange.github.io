@@ -2,9 +2,9 @@
 layout: post
 title:  "Instrumentation"
 date:   2022-04-24 15:39:40
-preview: fig/sphere.jpeg
+preview: test.jpeg
 ---
 
-<img src="/fig/sphere.jpeg"  height="400">
+<img src="test.jpeg"  height="400">
 
 Instrumentation

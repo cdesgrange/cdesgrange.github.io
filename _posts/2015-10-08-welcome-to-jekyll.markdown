@@ -6,3 +6,4 @@ preview: holder.js/300x300?auto=yes
 ---
 
 Master project
+<img src="test" width="100" height="100">

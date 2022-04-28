@@ -74,9 +74,11 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
    *Observatory of Haute-Provence, France*
    
    Supervisors: Noël Robichon and Hervé Dole
+   
+   <br> <br> 
         
   - 2019, 4 months: <b>Internship on the In-depth characterisation of the young planetary system HD 95086</b> with 10 VLT/SPHERE observations
-  - 
+  
     *Universidad de Chile, Santiago, Chile*
     
     Supervisors: Gaël Chauvin and Patricio Rojo

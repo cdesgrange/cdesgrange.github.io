@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 
-Download <a href="cdesgrange.github.io/Resume_Desgrange_Celia.pdf" target="_blank"> Resume.pdf</a>
+Download <a href="/Resume_Desgrange_Celia.pdf" target="_blank"> Resume.pdf</a>
 
 
 <h3>Education </h3>

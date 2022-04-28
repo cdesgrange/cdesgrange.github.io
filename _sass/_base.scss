@@ -1,7 +1,7 @@
 @import "default_colors";
 
 $body-background: #white !default;
-$body-foreground: #2e0901 !default;
+$body-foreground: $conifer !default;
 
 /**
 
@@ -24,7 +24,7 @@ $body-foreground: #2e0901 !default;
 
 body {
   background-color: $body-background;
-  color: $darkred;
+  color: #330505;
 }
 
 header {

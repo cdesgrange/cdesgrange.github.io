@@ -29,7 +29,7 @@ Co-supervision between the  <i>Institut de Planétologie et d'Astrophysique de G
 
   <li><b>Bachelor of Physics</b>, with honors (2017-2018)
   at the <i>ENS de Lyon within the University of Lyon, France</i> </li>
-</ul>
+</ul> 
 
 Note: the ENS de Lyon is a top french university part of the "Grandes Écoles": a network of institutions of higher education entrance in France.
 

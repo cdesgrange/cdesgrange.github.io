@@ -22,6 +22,6 @@ $teal-color-dark:  darken($grey-color, 25%);
 
 
 .page-header{
-color:#ffff;
-background-color:#fff;
+color: $body-foreground;
+background-color: $body-background;
 }

@@ -15,12 +15,12 @@ I currently have two publications as first-author and five as co-author, mainly 
 
 <b>Co-author:</b>
 
-  Bonavita, Gratton, Desidera, ...  <b>Desgrange</b> et al., 2021, Astronomy and Astrophysics, accepted.
+  Bonavita, Gratton, Desidera, ...,  <b>Desgrange</b> et al., 2021, Astronomy and Astrophysics, accepted.
 
-  Asensio-Torres,  Henning, Cantalloube, ... <b>Desgrange</b> et al., 2021, Astronomy and Astrophysics, 652, A101. 
+  Asensio-Torres,  Henning, Cantalloube, ..., <b>Desgrange</b> et al., 2021, Astronomy and Astrophysics, 652, A101. 
         
   Gratton, R., D'Orazi, V., Pacheco, ..., <b>Desgrange</b> et al., 2020, Astronomy and Astrophysics, 646, A61.
         
   Cantalloube, Gomez-Gonzalez, Absil, ..., <b>Desgrange</b> et al.,  2020, Proceedings of SPIE, 11448, 114485A. 
         
-  Le Coroller,  Nowak, Delorme, et al., 2020, Astronomy and Astrophysics, 639, A113.
+  Le Coroller, Nowak, Delorme, ..., <b>Desgrange</b>  et al., 2020, Astronomy and Astrophysics, 639, A113.

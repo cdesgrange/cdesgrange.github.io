@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Protoplanetary Disks"
+title:  "Protoplanetary disks"
 date:   2022-04-22 15:39:40
 preview: fig/PDS_70-1.png
 ---

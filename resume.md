@@ -49,7 +49,7 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
 
   Supervisers: Gaël Chauvin, Julien Milli and Thomas Henning.
 </li>
-  <br> <br> 
+  <br> 
  
 <li>2021, 5 months: <b>Internship on Exploring the link between telluric and giant planets</b> by combining observations of 27 directly-imaged planetary systems with radial velocity and astrometric detection methods, and confronting these results with those from theoretical model predictions.
   
@@ -57,15 +57,15 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
   
   Supervisers: Julien Milli and Gaël Chauvin
 </li>
-  <br> <br> 
+  <br>
   
 <li>2020-2021, 5 months: <b>Internship on Protoplanetary disks</b> by using the latest cutting-edge post-processing algorithms in direct imaging to look for the exoplanets creating the observed substructures inside a sample of 15 young disks
 
    <i>MPIA, Heidelberg, Germany</i>
 
-   supervisers: Faustine Cantalloube and Thomas Henning
+   Supervisers: Faustine Cantalloube and Thomas Henning
  </li>
-   <br> <br> 
+   <br> 
 
          
  <li> 2020, 4 months: <b>Master's thesis on Experimental and theoretical limitations from polarisation shifts in High-Contrast Imaging</b>
@@ -74,7 +74,7 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
 
    Supervisers: Pierre Baudoz and Raphaël Galicher
  </li>
-   <br> <br> 
+   <br> 
    
   
  <li> 2020, 1 week: <b>Observational week</b> including the selection of the targets to observe, the manual manipulation of the telescopes (1m52, 1m20, and 80cm) and their domes, as well as the data processing and analysis 
@@ -83,25 +83,9 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
    
    Supervisors: Noël Robichon and Hervé Dole
  </li>
-   
-   <br> <br> 
+   <br> 
+     <br>
         
-  <li> 2019, 4 months: <b>Internship on the In-depth characterisation of the young planetary system HD 95086</b> with 10 VLT/SPHERE observations
-  
-    <i>Universidad de Chile, Santiago, Chile </i>
-    
-    Supervisors: Gaël Chauvin and Patricio Rojo
-  </li>
-    <br> <br> 
-  
-  
-  <li> 2018, 2 months: <b>Bachelor's thesis on Testing the Averaged Inhomogeneous Cosmology model</b> by using maximum likelihood estimation to fit light-curves of Type Ia supernovae
- 
-     <i>Centre de Recherche Astrophysique de Lyon (CRAL), Lyon, France </i>
-    
-     Supervisors: Thomas Buchert and Asta Heinesen
-   </li>
-     <br> <br> 
  </ul>
      
      

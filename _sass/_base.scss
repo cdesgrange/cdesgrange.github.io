@@ -1,6 +1,6 @@
 @import "default_colors";
 
-$body-background: #FFFFFF !default;
+$body-background: #white !default;
 $body-foreground: #2e0901 !default;
 
 /**
@@ -23,12 +23,12 @@ $body-foreground: #2e0901 !default;
 }
 
 body {
-  background-color:  #FF0000;
-  color: $body-foreground;
+  background-color: $body-background;
+  color: #2e0901;
 }
 
 header {
-  background-color:  $conifer;
-  color: $body-foreground;
+  background-color:  $body-background;
+  color: #F4BF75;
 }
 

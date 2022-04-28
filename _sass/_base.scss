@@ -22,15 +22,13 @@ $body-foreground: $gallery !default;
     }
 }
 
-
-
 body {
-  background-color: #FFFFFF;
-  color: #FFFFFF;
+  background-color:  $body-background;
+  color: $body-foreground;
 }
 
 header {
-  background-color: #FFFFFF;
-  color: #FFFFFF;
+  background-color:  $body-background;
+  color: $body-foreground;
 }
 

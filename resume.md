@@ -13,7 +13,6 @@ Download <a href="/Resume_Desgrange_Celia.pdf" target="_blank"> Resume.pdf</a>
 
 <b>Ph. D. entitled 'Path forward discs and exoplanets imaging with SPHERE at VLT: Pushing the limits in its current design and with the SPHERE+ upgrade' </b> <br> 
 Co-supervision between the  <i>Institut de Planétologie et d'Astrophysique de Grenoble (IPAG), Grenoble, France* <i> and the  </i>Max-Planck Institute for Astronomy (MPIA), Heidelberg, Germany </i>
-
 <br>
 
 <strong>2017-2021 - Ecole Normale Supérieure (ENS) de Lyon and Observatory of Paris (France)</strong>
@@ -33,7 +32,6 @@ Co-supervision between the  <i>Institut de Planétologie et d'Astrophysique de G
 </ul> 
 
 Note: the ENS de Lyon is a top french university part of the "Grandes Écoles": a network of institutions of higher education entrance in France.
-
 <br> 
 
 <strong>2015-2017 - Preparatory Class in Kléber High-School (Strasbourg, France)</strong>
@@ -42,7 +40,6 @@ Equivalent to the first and second years of Bachelor in Mathematics, Physics and
 <br> 
 Note: The Preparatory Class program (called CPGE in French) corresponds to two years of intensive science-focused courses preparing for the entrance exam to French "Grandes Écoles".
 <br> <br> 
-
 
 <h3>Experience </h3>
 
@@ -89,7 +86,23 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
    Supervisors: Noël Robichon and Hervé Dole
  </li>
    <br> 
-     <br>
+    
+  
+ <li> 2019, 4 months: <b>Internship on the In-depth characterisation of the young planetary system HD 95086</b> with 10 VLT/SPHERE observations
+    <br> 
+    <i>Universidad de Chile, Santiago, Chile </i>
+    <br> 
+    Supervisors: Gaël Chauvin and Patricio Rojo
+ </li>
+    <br> 
+  
+ <li> 2018, 2 months: <b>Bachelor's thesis on Testing the Averaged Inhomogeneous Cosmology model</b> by using maximum likelihood estimation to fit light-curves of Type Ia supernovae
+     <br> 
+     <i>CRAL (Centre de Recherche Astrophysique de Lyon), Lyon, France</i>
+     <br> 
+     Supervisors: Thomas Buchert and Asta Heinesen
+ </li>
+
         
  </ul>
      

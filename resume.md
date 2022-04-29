@@ -102,9 +102,77 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
      <br> 
      Supervisors: Thomas Buchert and Asta Heinesen
  </li>
-
-        
+  
  </ul>
+ <br> 
+ 
+ <h3> Conferences and workshops </h3>
+ <ul> 
+ <li> November 2022: <b>ExosystemII</b>  <i>(Toulouse, France)</i>
+ <br> Contributed talk: Exploring the link between Super-Earths and cold Jupiters via direct-imaging, radial velocity and astrometry methods
+ </li>
+  
+ <li> April 2021: <b>FCLA workshop</b>  <i> (online)</i>
+ <br> Contributed talk: In-depth study of the young Solar system analog HD95086
+ </li>
+ </ul> 
+ <br> 
+ 
+ <h3> Summer schools </h3>
+ <ul> 
+ <li> September 2022: <b>Exo-atmospheres</b>  <i> (Les Houches, France)</i>
+ </li>
+  
+ <li> June 2021: <b>the 10th VLTI school of Interferometry</b>  <i>(online)</i>
+ </li>
+ </ul> 
+ <br> 
+ 
+ <h3> Outreach </h3>
+ <ul> 
+ <li> Volunteer to the national event French nights of stars ('Nuits des étoiles') in the context of the organization SAFGA (Société Astronomique de France -- Groupe Alsace). Public education to the night sky by using my own 200 mm-telescope. 
+ <i>  Strasbourg, France </i>  
+ </li> 
+  
+ <li> Conference on Exoplanets to the organization SAFGA (August 2021)
+ <i>  Bellefosse, Alsace, France </i>  
+ </li> 
+
+</ul>
+<br> 
+
+<h3> Organizations </h3>
+ <ul> 
+ <li> Member of the astronomical organization SAFGA. Board member since Jan. 2020.  
+ <i>  Strasbourg, France </i>  
+ </li> 
+ 
+
+</ul>
+<br> 
      
+ <h3> Awards </h3>
+ <ul> 
+ <li> 2019: Winner of the International Physicists' Tournament with the team of the University of Lyon at the French scale; Second at the international scale.  </li> 
+</ul>
+ 
+ <br> 
      
-     
+ <h3> Languages </h3>
+ <ul> 
+ <li> French (native)  </li> 
+ <li> English (fluent, CAE certification C1)  </li> 
+ <li> Spanish, German (intermediate)  </li> 
+ <li> Italian, Russian (beginner)  </li> 
+
+</ul>
+<br> 
+
+<h3> Computer skills </h3>
+ <ul> 
+ <li> Python (advanced)  </li> 
+ <li> Matlab (intermediate)  </li> 
+ <li> IDL, Fortran, C (beginner)  </li> 
+
+</ul>
+<br> 

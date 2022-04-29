@@ -39,7 +39,7 @@ Equivalent to the first and second years of Bachelor in Mathematics, Physics and
 Note: The Preparatory Class program (called CPGE in French) corresponds to two years of intensive science-focused courses preparing for the entrance exam to French "Grandes Écoles".
 <br> 
 
-<strong>Experience </strong>
+<h3>Experience </h3>
 
 <ul>
    

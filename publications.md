@@ -7,6 +7,7 @@ permalink: /publications/
 I currently have <b>two publications as first-author</b> and <b>five as co-author</b>, mainly in the field of Exoplanets. 
 
 When I was an undergraduated student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 which followed my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observations and characterization.</b>
+
 <br>
 
 <strong>*First author:*</strong>

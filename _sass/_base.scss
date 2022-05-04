@@ -1,7 +1,7 @@
 @import "default_colors";
 
-$body-background: $cod-grey !default;
-$body-foreground: $gallery !default;
+$body-background: #white !default;
+$body-foreground: $conifer !default;
 
 /**
 
@@ -22,15 +22,13 @@ $body-foreground: $gallery !default;
     }
 }
 
-
-
 body {
-  background-color: $conifer;
-  color: $conifer;
+  background-color: $body-background;
+  color: $cod-grey;
 }
 
 header {
-  background-color: $conifer;
-  color: $conifer;
+  background-color:  $body-background;
+  color: $apple-blossom;
 }
 

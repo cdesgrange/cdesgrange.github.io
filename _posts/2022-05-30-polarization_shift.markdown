@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Polarization effects"
+title:  "Limitations from polarization effects"
 date:   2020-05-30 20:09:00
 preview: fig/polar_thd2.png
 ---

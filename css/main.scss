@@ -21,3 +21,15 @@ $grey-color-dark:  darken($grey-color, 25%);
 color: $tandoori;
 background-color: $body-background;
 }
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}

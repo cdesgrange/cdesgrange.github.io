@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Polarization effects"
-date:   2022-05-30 20:09:00
+date:   2020-05-30 20:09:00
 preview: fig/polar_thd2.png
 ---
 

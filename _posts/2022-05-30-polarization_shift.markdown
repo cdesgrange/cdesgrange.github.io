@@ -7,7 +7,7 @@ preview: fig/polar_thd2.png
 
 Fifteen years after the first-ever image of an exoplanet by Chauvin et al. (2004) with the VLT/NaCo telescope and instrument, second generation instruments are currently operational to directly image exoplanets with high angular resolution and high contrast imaging techniques, such as SPHERE at the VLT (Chile), GPI at Gemini South (Chile) but being currently relocated to Gemini North (Hawaii) and SCExAO at Subaru (Hawaii).
 
-Developing such instruments require testbed and the Très Haute Dynamique 2 bench (THD2 bench) is unique in Europe for high-contrast imaging. However, polarization effects are present on the bench and cause aberrations. They could be linked to the <b>Goos-Hänchen and Imbert-Fedorov effects which both cause spatial shifts and angular deviations</b>, respectively longitudinal and transversely. Although these effects have already been investigated in the literature on optic and quantum mechanic perspectives, there are rather new in an astronomical instrumentation viewpoint and questions remain on their level on the THD 2 bench. To date of my master's thesis (spring 2020), no study has been made on these effects for a whole optical bench, with displacements not caused by only one dielectric or metallic mirror, but a dozen.
+<b>Developing such instruments require testbed and the Très Haute Dynamique 2 bench (THD2 bench) is unique in Europe for high-contrast imaging. However, polarization effects are present on the bench and cause aberrations.</b> They could be linked to the <b>Goos-Hänchen and Imbert-Fedorov effects</b> which both cause spatial shifts and angular deviations, respectively longitudinal and transversely. Although these effects have already been investigated in the literature on optic and quantum mechanic perspectives, there are rather new in an astronomical instrumentation viewpoint and questions remain on their level on the THD 2 bench. To date of my master's thesis (spring 2020), no study has been made on these effects for a whole optical bench, with displacements not caused by only one dielectric or metallic mirror, but a dozen.
 <br>
 
 <p align="center">
@@ -39,7 +39,7 @@ Both of the GH and IF effects depend on the refractive index, the incident angle
 
 <br>
 <p align="center">
-<img src="/fig/polar_4effects_concise.png" height="220"> <img src="/fig/polar_4effects_detailed.png" height="300">
+<img src="/fig/polar_4effects_detailed.png" height="350">
 <br> [Schemes from Bliokh & Aiello, 2013] <br>
 </p>
 

@@ -34,6 +34,5 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
 
 <br>
 
-The complete list of my publications is available on ADS <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDesgrange%2C%20C%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_author=(author_facet_hier%3A%220%2FDesgrange%2C%20C%22)&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Desgrange%2C%20C%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">here</a>.
-
+The complete list of my publications is available on ADS <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDesgrange%2C%20C%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_author=(author_facet_hier%3A%220%2FDesgrange%2C%20C%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=author%3A%22Desgrange%2C%20C%22&sort=date%20desc%2C%20bibcode%20desc">here</a>.
 

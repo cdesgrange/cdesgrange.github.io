@@ -15,8 +15,6 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
   <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, accepted.
  
   <b>Desgrange</b>, Heinesen, and Buchert, 2019, International Journal of Modern Physics D, 28, 1950143.
-  
-  https://ui.adsabs.harvard.edu/search/q=author%3A%22%5EDesgrange%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
  
 <br>
 

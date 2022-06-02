@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
   PhD student in co-supervision between IPAG (Grenoble, France) and MPIA (Heidelberg, Germany). Personal website still in construction.
 #baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://cdesgrange.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  cdesgrange
 avatar: /fig/HD95086_overview.png
@@ -14,3 +14,4 @@ avatar: /fig/HD95086_overview.png
 # Build settings
 markdown: kramdown
 permalink: pretty
+#<meta name="description" content="Description de ma page" />

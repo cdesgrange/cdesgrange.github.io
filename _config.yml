@@ -3,12 +3,13 @@ title: Célia Desgrange
 email: celia.desgrange@universite-grenoble-alpes.fr
 #email: desgrange@mpia.de
 description: > # this means to ignore newlines until "baseurl:"
-  PhD student in exoplanets and disks imaging. In co-supervision between IPAG (Grenoble, France) and MPIA (Heidelberg, Germany). 
+  PhD student in exoplanet and disk imaging with the instrument VLT/SPHERE. In co-supervision between IPAG (Grenoble, France) and MPIA (Heidelberg, Germany).
+  My supervisors are Gaël Chauvin, Julien Milli and Thomas Henning.
 #baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
 url: "https://cdesgrange.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  cdesgrange
-avatar: /fig/HD95086_overview.png
+#avatar: /fig/HD95086_overview.png
 
 # Build settings
 markdown: kramdown

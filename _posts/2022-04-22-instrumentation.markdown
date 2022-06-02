@@ -21,4 +21,4 @@ High-contrast imaging instruments are complex and composed of different parts, w
 - the imaging systems: a dual-band imager (IRDIS, Dohlen et al., 2008), an integral field spectrograph (IFS, Claudi et al., 2008), and an polarimeter (ZIMPOL, Thalmann et al., 2008). Both IRDIS and the IFS work in near-infrared (Y to K band i.e. 0.95 µm to 2.3 µm), while ZIMPOL works in the visible and beginning of the near infrared.
 
 
-After seven years of operations, SPHERE is one of the most efficient disk and exoplanet imager worldwide.
+After seven years of operations, SPHERE is one of the most efficient disk and exoplanet imager worldwide. Learn more about SPHERE <a href="https://www.eso.org/public/france/teles-instr/paranal-observatory/vlt/vlt-instr/sphere/">here</a>.

@@ -8,7 +8,7 @@ preview: fig/HD95086_overview.png
 <img src="/fig/HD95086_overview.png" width="300" height="300">
 </p>
 
-HD 95086 b is an exoplanet of 4-5 Jupiter masses discovered with the instrument NaCo at the Very Large Telescope in Chile (Rameau+2013a).
+HD 95086 b is an exoplanet of 4-5 Jupiter masses discovered with the instrument NaCo at the Very Large Telescope in Chile (Rameau et al. 2013a).
 
 This exoplanet is located at a distance of about 50 to 70 au, which is between the two belts of debris of the system.
 

@@ -18,7 +18,7 @@ In addition, I also looked into the morphology of the disks in near infrared thr
 
 <p align="center">
 <img src="/fig/PDS70_details.png"  height="220">
-<br> [MAYONNAISE post-processing on the PDS 70 system.]
+<br> [My image processing with MAYONNAISE on the benchmark system PDS 70.]
 </p>
 
 

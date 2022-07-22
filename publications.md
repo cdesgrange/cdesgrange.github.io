@@ -4,13 +4,13 @@ title: publications
 permalink: /publications/
 ---
 
-I currently have <b>two publications as first-author</b> and <b>five as co-author</b>, mainly in the field of Exoplanets. 
+I currently have <b>two refeered publications as first-author</b> and <b>eight as co-author</b>. Excepted one publication, all are in the field of Exoplanets. 
 
 When I was an undergraduated student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 which followed my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
 
 <br>
 
-<strong>*First author:*</strong> 
+<strong>*First author: 2 publications*</strong> 
 
   <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, accepted.
  
@@ -18,7 +18,14 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
  
 <br>
 
-<strong>*Co-author:*</strong>
+<strong>*Co-author: 8 publications, including one in second author*</strong>
+
+  Palma-Bifani, Chauvin, Bonnefoy, ..., <b>Desgrange</b> et al., submitted to Astronomy and Astrophysics.
+   
+  Le Coroller, Nowak, Wagner, ..., <b>Desgrange</b>  et al., 2022, Astronomy and Astrophysics, accepted.
+        
+  Gallenne, <b>Desgrange</b> , Milli, et al., 2022, Astronomy and Astrophysics, accepted.
+
 
   Bonavita, Gratton, Desidera, ...,  <b>Desgrange</b> et al., 2021, Astronomy and Astrophysics, accepted.
 
@@ -34,3 +41,5 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
 
 The complete list of my publications is available on ADS <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDesgrange%2C%20C%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_author=(author_facet_hier%3A%220%2FDesgrange%2C%20C%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=author%3A%22Desgrange%2C%20C%22&sort=date%20desc%2C%20bibcode%20desc">here</a>.
 
+
+Last update: July 22, 2022

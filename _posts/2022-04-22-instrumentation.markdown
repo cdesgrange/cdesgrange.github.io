@@ -5,7 +5,7 @@ date: 2022-04-20 22:00:00
 preview: fig/sphere.jpeg
 ---
 
-For my research, I mainly use the high-contrast imaging instrument SPHERE (Beuzit et al., 2019) at the Very Large Telescope in Chile to image exoplanets or disks.
+<b>For my research, I mainly use the high-contrast imaging instrument SPHERE</b> (Beuzit et al., 2019) at the Very Large Telescope in Chile to image exoplanets or disks.
 
 <p align="center">
 <img src="/fig/sphere.jpeg" height=300>

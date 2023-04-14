@@ -108,7 +108,20 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
  
  <h3> Conferences and workshops </h3>
  <ul> 
- <li> November 2022: <b>ExosystemII</b>  <i>(Toulouse, France)</i>
+ <li> January 2023: <b>Exosystèmes III</b>  <i>(Marseille, France)</i>
+ <br> Contributed talk: In-depth study on the young multi-belt system HD 95086 hosting (at least) one giant planet
+ </li>
+ 
+ <li> June 2022: <b>In the Spirit of Lyot</b>  <i>(Leiden, The Neverthelands)</i>
+ <br> Poster 1: Exploring the link between Super-Earths and cold Jupiters toward a better understanding of planetary formation 
+ <br> Poster 2: In-depth study on the young multi-belt system HD 95086 hosting (at least) one giant planet from VLT/SPHERE and VLTI/Gravity (collaboration with Gilles Otten for the VLTI/Gravity results)
+ </li>
+  
+ <li> June 2022: <b>SF2A</b>  <i>(Strasbourg, France)</i>
+ <br> Contributed talk: The young exoplanetary system HD 95086 
+ </li>
+  
+ <li> November 2021: <b>Exosystèmes II</b>  <i>(Toulouse, France)</i>
  <br> Contributed talk: Exploring the link between Super-Earths and cold Jupiters via direct-imaging, radial velocity and astrometry methods
  </li>
   
@@ -129,13 +142,17 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
  <br> 
  
  <h3> Outreach </h3>
- <ul> 
- <li> Volunteer to the national event French nights of stars ('Nuits des étoiles') in the context of the organization SAFGA (Société Astronomique de France -- Groupe Alsace). Public education to the night sky by using my own 200 mm-telescope. 
- <i>  Strasbourg, France </i>  
+ <ul>   
+ <li> Conference on the Exoplanets to the organization SAFGA (August 2022)
+ <i>  Chalet de la Perheux, Alsace, France </i>  
  </li> 
   
- <li> Conference on Exoplanets to the organization SAFGA (August 2021)
+ <li> Conference on the Exoplanets to the organization SAFGA (August 2021)
  <i>  Bellefosse, Alsace, France </i>  
+ </li> 
+  
+   <li> Volunteer to the national event French nights of stars ('Nuits des étoiles') in the context of the organization SAFGA (Société Astronomique de France - Groupe Alsace) between 2015 and 2019. Public education to the night sky by using my own 200 mm-telescope. 
+ <i>  Strasbourg, France </i>  
  </li> 
 
 </ul>
@@ -143,7 +160,7 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
 
 <h3> Organizations </h3>
  <ul> 
- <li> Member of the astronomical organization SAFGA. Board member since Jan. 2020.  
+ <li> Member of the astronomical organization SAFGA. Board member between January 2020 and January 2023.  
  <i>  Strasbourg, France </i>  
  </li> 
  
@@ -161,7 +178,7 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
  <h3> Languages </h3>
  <ul> 
  <li> French (native)  </li> 
- <li> English (fluent, CAE certification C1)  </li> 
+ <li> English (fluent, CAE certification C1 in 2019)  </li> 
  <li> Spanish, German (intermediate)  </li> 
  <li> Italian, Russian (beginner)  </li> 
 

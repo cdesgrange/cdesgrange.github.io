@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "AU Mic"
+title:  "AU Mic system"
 date:   2020-03-23 20:09:00
 preview: fig/fig_intro_AUMic.png
 ---
 
 <b> Second author paper: </b> <i> Probing the innermost region of the AU Microscopii debris disc</i>, Gallenne,  Desgrange et al., 2022, Astronomy & Astrophysics. 
 
-AU Mic is a young and nearby M-dwarf star harbouring a circumstellar debris disc. It has two discovered planets, AU Mic b and c on orbital periods of 8.5 days and 18.9 days (semi-major axes of 0.07 au and 0.11), respectively. Large-scale structures within the disc were also discovered and are moving outwards at high velocity.
+The AU Mic system is young and has a nearby M-dwarf star harbouring a circumstellar debris disc. It has two discovered planets, AU Mic b and c on orbital periods of 8.5 days and 18.9 days (semi-major axes of 0.07 au and 0.11), respectively. In addition, large-scale structures within the disc were discovered and are moving outwards at high velocity.
 
 <p align="center">
 <img src="/fig/fig_intro_AUMic.png" width="500">

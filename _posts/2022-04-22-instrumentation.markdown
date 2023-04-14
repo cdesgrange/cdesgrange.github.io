@@ -17,7 +17,7 @@ For my research, I mainly use the high-contrast imaging instrument SPHERE (Beuzi
 High-contrast imaging instruments are complex and composed of different parts, which all play a critical role to improve the detection limits to detect fainter objects: 
 
 - the adaptive optics system to correct for the atmospheric turbulence
-- the coronagraph to remove most of the starlight and reveal faint companions
+- the coronagraph to remove most of the starlight and reveal faint companions or disk structures
 - the imaging systems: a dual-band imager (IRDIS, Dohlen et al., 2008), an integral field spectrograph (IFS, Claudi et al., 2008), and an polarimeter (ZIMPOL, Thalmann et al., 2008). Both IRDIS and the IFS work in near-infrared (Y to K band i.e. 0.95 µm to 2.3 µm), while ZIMPOL works in the visible and beginning of the near infrared.
 
 

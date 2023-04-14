@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How do Low-Mass exoplanets form?"
-date:   2022-01-23 20:09:00
+title:  "How do low-mass exoplanets form?"
+date:   2022-01-24 20:09:00
 preview: fig/fig_intro_subsat.png
 ---
 

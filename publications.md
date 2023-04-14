@@ -4,24 +4,23 @@ title: publications
 permalink: /publications/
 ---
 
-I currently have <b>two refeered publications as first-author</b> and <b>eight as co-author</b>. Excepted one publication, all are in the field of Exoplanets. 
+I currently have <b>two refeered publications as first-author</b> and <b>eleven as co-author</b>. Excepted one publication, all are in the field of Exoplanets. 
 
-When I was an undergraduated student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 which followed my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
+When I was an undergraduated student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
 
 <br>
 
 <strong>*First author: 2 publications*</strong> 
 
-  <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, 664, A139, <i><a href="https://ui.adsabs.harvard.edu/search/p_=0&q=%20%20author%3A%22%5Esu%22%20%20abs%3A%2295086%22&sort=date%20desc%2C%20bibcode%20desc
-">In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</a></i>.
+  <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, 664, A139, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.139D/abstract">In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</a></i>.
  
   <b>Desgrange</b>, Heinesen, and Buchert, 2019, International Journal of Modern Physics D, 28, 1950143, <i><a href="https://ui.adsabs.harvard.edu/abs/2019IJMPD..2850143D/abstract">Dynamical spatial curvature as a fit to Type Ia supernovae</a></i>.
  
 <br>
 
-<strong>*Co-author: 8 publications, including one in second author*</strong>
+<strong>*Co-author: 11 publications, including one in second author*</strong>
 
-  Palma-Bifani, Chauvin, Bonnefoy, ..., <b>Desgrange</b> et al., submitted to Astronomy and Astrophysics, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...670A..90P/abstract">Peering into the young planetary system AB Pic. Atmosphere, orbit, obliquity, and second planetary candidate</a></i>.
+  Palma-Bifani, Chauvin, Bonnefoy, ..., <b>Desgrange</b> et al., 670, A90, to Astronomy and Astrophysics, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...670A..90P/abstract">Peering into the young planetary system AB Pic. Atmosphere, orbit, obliquity, and second planetary candidate</a></i>.
    
   Le Coroller, Nowak, Wagner, ..., <b>Desgrange</b>  et al., 2022, Astronomy and Astrophysics, 667, A142, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...667A.142L/abstract">Efficiently combining α CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hours NEAR campaign</a></i>
   
@@ -48,4 +47,4 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
 The complete list of my publications is available on ADS <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDesgrange%2C%20C%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_author=(author_facet_hier%3A%220%2FDesgrange%2C%20C%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=author%3A%22Desgrange%2C%20C%22&sort=date%20desc%2C%20bibcode%20desc">here</a>.
 
 
-Last update: July 22, 2022
+Last update: April 14, 2023

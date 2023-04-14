@@ -21,7 +21,7 @@ This exoplanet is located at a semi-major axis of about 50 to 70 au to its host 
 
 
 <p align="center">
-<img src="/fig/fig_HD95086_sketch_architecture.png" height="250">
+<img src="/fig/fig_HD95086_sketch_architecture.png" width="650">
 <br> <i> Sketch of the  architecture of the system HD 95086.  <br> Credits: Célia Desgrange. </i> <br>
 </p>
 
@@ -31,7 +31,7 @@ This exoplanet is located at a semi-major axis of about 50 to 70 au to its host 
 <b> At least one or two additional planets are expected in the system due the large cavity</b>, but we did not discover them. Future observations with the James Webb Space Telescope (JWST) may find it, them, or at least set constraints on their presence. In addition, the JWST will be able to better characterize the spectrum of the known planet HD 95086 b, as it will access for the first time to the 10-15 micronmeter bandwidth with its instrument MIRI. Different JWST programs from the GTO consortium are planned during the first semester of 2023, <i> stay tuned!</i>
 
 <p align="center">
-<img src="/fig/fig_HD95086_sketch_architecture_ext.png" height="250">
+<img src="/fig/fig_HD95086_sketch_architecture_ext.png" width="650">
 <br> <i> Sketch of the architecture of the system HD 95086 with future possible planet detection(s) and spectral characterization from the JWST telescope and its instruments NIRISS (aperture masking imaging mode), and NIRCam and MIRI (both in coronagraphic modes).   <br> Credits: Célia Desgrange. </i> <br>
 </p>
 <br> 

@@ -5,24 +5,33 @@ date:   2020-03-23 20:09:00
 preview: fig/fig_intro_AUMic.png
 ---
 
-IN PROGRESS
+<b> Second author paper: </b> <i> Probing the innermost region of the AU Microscopii debris disc</i>, Gallenne,  Desgrange et al., 2022, Astronomy & Astrophysics. 
+
+AU Mic is a young and nearby M-dwarf star harbouring a circumstellar debris disc. It has two discovered planets, AU Mic b and c on orbital periods of 8.5 days and 18.9 days (semi-major axes of 0.07 au and 0.11), respectively. Large-scale structures within the disc were also discovered and are moving outwards at high velocity.
 
 <p align="center">
 <img src="/fig/fig_intro_AUMic.png" width="500">
-<br>  <i> The debris disk AU Mic seen edge-on. Image credits: ESO, NASA, ESA. <br>  Paper: Boccaletti et al. 2015, Nature, Fast-moving features in the debris disk around AU Microscopii. </i> <br>
+<br>  <i> The debris disk AU Mic seen edge-on. Image credits: ESO, NASA, ESA. <br>  Paper: Boccaletti et al. 2015, Nature,  “Fast-moving features in the debris disk around AU Microscopii". </i> <br>
 </p>
 
 
-
-<p align="center">
-<img src="/fig/Gallenne2022_AUMic_Fig5_RV+DI+interfero.png" height="300">
-<br>  <i> Detection limits constraints on AU Mic by combining radial velocity, direct-imaging and interferometric measurements. <br> Figure 5 from Gallenne,  <b> Desgrange  </b> et al. (2022) </i> <br>
-</p>
+We aim to study this system with the highest spatial resolution in order to probe the innermost regions and to search for additional low-mass companions or set detection limits. The star was observed with two different high-angular resolution techniques probing complementary spatial scales. We obtained new Ks-band sparse aperture masking (SAM) observations with VLT/SPHERE-SAM, which we combined with interferometric data from VLT/NaCo-SAM, VLTI/PIONIER and VLTI/GRAVITY, and direct-imaging observation from VLT/SPHERE, see Figures below. 
 
 <p align="center">
 <img src="/fig/Gallenne2022_AUMic_Fig6_DI+interfero.png" height="300">
 <br>  <i> Detection limits constraints on AU Mic by combining direct-imaging and interferometric measurements. <br> Figure 6 from Gallenne,  <b> Desgrange  </b> et al. (2022)  </i> <br>
 </p>
 
+Adding the radial-velocity (RV) measurements enable us to even better constrain the presence of giant companions below 1 au. For instance, a companion of 3  Jupiter-mass at a semi-major axis of 0.1 au is ruled out by RV data.
+  
+<p align="center">
+<img src="/fig/Gallenne2022_AUMic_Fig5_RV+DI+interfero.png" height="300">
+<br>  <i> Detection limits constraints on AU Mic by combining radial velocity, direct-imaging and interferometric measurements. <br> Figure 5 from Gallenne,  <b> Desgrange  </b> et al. (2022) </i> <br>
+</p>
 <br><br>
+
+My work was in this project was to compute the detection limits on the AU Mic system from the interferometric observations VLT/SPHERE-SAM, VLT/NaCo-SAM, VLTI/PIONIER and VLTI/GRAVITY, direct-imaging observation VLT/SPHERE, and radial-velocity data. I used the tool pyMESS2 (pythonized version of MESS2, see Lannier et al. 2017)
+
+The paper is available <a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..41G/abstract">here</a>.
+
 

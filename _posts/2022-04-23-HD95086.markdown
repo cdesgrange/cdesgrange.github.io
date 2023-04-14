@@ -4,15 +4,42 @@ title:  "Planetary system characterization"
 date:   2022-04-23 20:09:00
 preview: fig/HD95086_overview.png
 ---
+
+
+<b> First-author paper: </b> <i> In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086 </i>,  Desgrange, Chauvin, Christiaens et al., 2022, Astronomy & Astrophysics. 
+
+
 <p align="center">
 <img src="/fig/HD95086_overview.png" width="300" height="300">
+<br> <i> Overview of the system HD 95086. This is a composite image with in pink the outer belt resolved by ALMA (Su et al. 2017) and in yellow the exoplanet b seen by VLT/SPHERE (Chauvin et al. 2018). <br> Figure from Desgrange et al. 2022. </i> <br>
 </p>
 
-HD 95086 b is an exoplanet of 4-5 Jupiter masses discovered with the instrument NaCo at the Very Large Telescope in Chile (Rameau et al., 2013a).
 
-This exoplanet is located at a distance of about 50 to 70 au, which is between the two belts of debris of the system.
+HD 95086 b is an exoplanet of about 4-5 Jupiter masses discovered with the instrument NaCo at the Very Large Telescope in Chile (Rameau et al. 2013b).
 
-Its young exolanet is particularly red which might be caused by the presence of clouds in its atmosphere or a putative debris circumplanetary disk surrounding the planet (Desgrange et al., 2022).
+This exoplanet is located at a semi-major axis of about 50 to 70 au to its host star. This is between the two debris belts of the system, with the outer one resolved by ALMA between 106 and 320 au (see Figure) and the inner one derived from fitting of the spectral energy distribution at about 7-10 au (Su et al. 2015, 2017).  
 
-I started to work on this project in Chile in 2019 under the supervision of Gaël Chauvin and Patricio Rojo.
 
+<p align="center">
+<img src="/fig/fig_HD95086_sketch_architecture.png" height="250">
+<br> <i> Sketch of the  architecture of the system HD 95086.  <br> Credits: Célia Desgrange. </i> <br>
+</p>
+
+<b>Its young exolanet is particularly red</b> which might be caused by the presence of clouds in its atmosphere or a putative debris circumplanetary disk surrounding the planet (Desgrange et al., 2022).
+
+
+<b> At least one or two additional planets are expected in the system due the large cavity</b>, but we did not discover them. Future observations with the James Webb Space Telescope (JWST) may find it, them, or at least set constraints on their presence. In addition, the JWST will be able to better characterize the spectrum of the known planet HD 95086 b, as it will access for the first time to the 10-15 micronmeter bandwidth with its instrument MIRI. Different JWST programs from the GTO consortium are planned during the first semester of 2023, <i> stay tuned!</i>
+
+<p align="center">
+<img src="/fig/fig_HD95086_sketch_architecture_ext.png" height="250">
+<br> <i> Sketch of the architecture of the system HD 95086 with future possible planet detection(s) and spectral characterization from the JWST telescope and its instruments NIRISS (aperture masking imaging mode), and NIRCam and MIRI (both in coronagraphic modes).   <br> Credits: Célia Desgrange. </i> <br>
+</p>
+<br> 
+
+
+I started to work on this project in Chile in 2019 during a master research internship under the supervision of Gaël Chauvin (Institut de Planétologie et d'Astrophysiques de Grenoble and Universidad de Chile) and Patricio Rojo (Universidad de Chile). 
+The paper was submitted and accepted beginning of 2022, coinciding with the beginning of my PhD. 
+
+
+The paper is available <a href="https://ui.adsabs.harvard.edu/search/p_=0&q=%20%20author%3A%22%5Esu%22%20%20abs%3A%2295086%22&sort=date%20desc%2C%20bibcode%20desc
+">here</a>.

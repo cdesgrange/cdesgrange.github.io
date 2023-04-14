@@ -11,7 +11,7 @@ Download <a href="/Resume_Desgrange_Celia.pdf" target="_blank"> Resume.pdf</a>
 <h3>Education </h3>
 <strong>2021-2024: Philosophiae Doctor in Astronomy and Astrophysics</strong>
 
-<b>Ph. D. entitled 'Path forward discs and exoplanets imaging with SPHERE at VLT: Pushing the limits in its current design and with the SPHERE+ upgrade' </b> <br> 
+<b>Ph. D. on the Architecture of planetary systems by direct imaging of disks and exoplanets with the SPHERE instrument at the VLT, and in the context of the SPHERE+ upgrade. </b> <br> 
 Co-supervision between the  <i>Institut de Planétologie et d'Astrophysique de Grenoble (IPAG), Grenoble, France* <i> and the  </i>Max-Planck Institute for Astronomy (MPIA), Heidelberg, Germany </i>
 <br>
 

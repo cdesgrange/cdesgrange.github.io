@@ -1,19 +1,19 @@
 ---
 layout: post
 title:  "How do Low-Mass exoplanets form?"
-date:   2022-04-23 20:09:00
-preview: fig/HD95086_overview.png
+date:   2022-01-23 20:09:00
+preview: fig/fig_intro_subsat.png
 ---
 
-IN PROGRESS 
 <p align="center">
-<img src="/fig/HD95086_overview.png" width="300" height="300">
+<img src="/fig/fig_intro_subsat.png" width="300" height="300">
 </p>
 
-HD 95086 b is an exoplanet of 4-5 Jupiter masses discovered with the instrument NaCo at the Very Large Telescope in Chile (Rameau et al., 2013a).
+The discovery of planets orbiting at less than 1 au from their host star and less massive than Saturn in various exoplanetary systems, different  from our Solar System, revolutionized our theories of planetary formation. <b>The fundamental question is whether these close-in low-mass planets could have formed in-situ at typically less than 1 au, or whether they formed further out in the planet-forming disk and migrated inwards. </b>
+ 
+Exploring the occurrence rate of giant planets in systems hosting such low-mass planets may help us to address their origin. In case of a formation beyond the snow line, followed by inward migration, the occurrence of close-in low-mass planets could be correlated or anti-correlated with the presence of an outer giant planet supporting or halting the migration process. 
 
-This exoplanet is located at a distance of about 50 to 70 au, which is between the two belts of debris of the system.
 
-Its young exolanet is particularly red which might be caused by the presence of clouds in its atmosphere or a putative debris circumplanetary disk surrounding the planet (Desgrange et al., 2022).
+<b>We carried out a direct imaging survey with the instrument VLT/SPHERE to look for outer giant planets and brown dwarf companions in 27 systems hosting close-in low-mass planets discovered by radial velocity.</b> Our sample is composed of very nearby (< 20 pc) planetary systems, orbiting G-, K- and M-type mature (500 Myr--10 Gyr) stellar hosts. The direct imaging data reduction and analysis were performed homogeneously to search for point sources and derive robust statistical detection limits. All companion candidates were then analyzed and classified. The final detection performances were globally considered in combination with radial velocity (HARPS) and astrometric (Gaia+Hipparcos) sensitivity. 
 
-I started to work on this project in Chile in 2019 under the supervision of Gaël Chauvin and Patricio Rojo.
+This project will be submitted by the beginning of May 2023 to the Astronomy & Astrophysics journal.

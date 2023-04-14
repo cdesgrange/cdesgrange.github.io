@@ -6,7 +6,7 @@ preview: fig/HD95086_overview.png
 ---
 
 
-<b> First-author paper: </b> <i> In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086 </i>,  Desgrange, Chauvin, Christiaens et al., 2022, Astronomy & Astrophysics. 
+<b> First-author paper: </b> <i> In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</i>,  Desgrange, Chauvin, Christiaens et al., 2022, Astronomy & Astrophysics. 
 
 
 <p align="center">

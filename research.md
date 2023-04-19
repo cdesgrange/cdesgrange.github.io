@@ -4,7 +4,9 @@ title: research
 permalink: /research/
 ---
 
-My research focuses on Exoplanets and Disks imaging mainly with the instrument SPHERE at the Very Large Telescope in Chile. <b>My Ph.D. aims to push the limits of SPHERE in its current design and with the SPHERE+ upgrade towards a better understanding of the architecture of planetary systems, and planetary formation.</b>
+My research focuses on Exoplanets and Disks imaging mainly with the instrument SPHERE at the Very Large Telescope in Chile. <b>My Ph.D. aims to better understand planet formation by peering into the architecture of planetary systems</b>. In practice, I characterize known exoplanets (orbital motion, spectral emission), and look for additional exoplanets. In addition, I am interested in debris disks, characterizing their emission and morphology. 
+I am part of the SPHERE and SPHERE+ consortia. In the SPHERE+ consortium, I work in the astro simulations group, in particular on the design of the medium resolution spectrograph. Therefore, my Ph.D. is strongly based on both observational and instrumental aspects.
+  
 
 After seven years of operations, SPHERE is one of the most efficient disks and exoplanet imagers worldwide. As the signal extraction and data processing of faint exoplanets or disks from observations requires a deep understanding of the instrument, it is highly valuable to combine instrumental studies and astrophysical interpretation. 
 
@@ -23,8 +25,7 @@ I have started to work in this field of direct imaging and in particular with th
 
 <b> An observer in astrophysics wears several hats: from writing the proposal and making the observation blocks, to the data acquisition, processing and analysis. I enjoy experiencing these different jobs.</b> In particular,  
 
-- In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. Now, this spring/summer 2022 I am patiently waiting for my observations to be executed in service mode, still with SPHERE. Exciting results to come?
-
+- In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. I submitted ESO proposals with SPHERE, one being accepted and executed in summer 2022. Right now, in April 2023, I am patiently waiting for the results of JWST Cycle 2, to see if one of my proposals as PI have been accepted!
 
 - During a master internship at the Max-Planck Institute for Astronomy in Germany, I investigated baseline to cutting-edge image processing techniques. The goal was to <b>retrieve directly-imaged protoplanetary disks in near infrared to look for proto-exoplanets creating the observed substructures inside the disks</b>. This project was carried out in the context of the paper from Assenssio-Torres et al. 2021.
 
@@ -68,5 +69,5 @@ In observations, my two main projects currently are
   
   - second the characterization of a specific debris disk. 
   
-In instrumentation, I am doing molecular mapping simulations to test different designs to upgrade potentially the low resolution integral field spectrograph (IFS) of SPHERE into a medium resolution IFS.
+In instrumentation, I am doing in particular molecular mapping simulations to test different designs to upgrade the low resolution integral field spectrograph (IFS) of SPHERE into a medium resolution IFS.
 

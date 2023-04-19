@@ -26,21 +26,21 @@ I have started to work in this field of direct imaging and in particular with th
 <b> An observer in astrophysics wears several hats: from writing the proposal and making the observation blocks, to the data acquisition, processing and analysis. I enjoy experiencing these different jobs.</b> In particular,  
 
 <ul>
-  <li> In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. I submitted ESO proposals with SPHERE, one being accepted and executed in summer 2022. Right now, in April 2023, I am patiently waiting for the results of JWST Cycle 2, to see if one of my proposals as PI have been accepted! <br><br>
+  <li> In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. I submitted ESO proposals with SPHERE, one being accepted and executed in summer 2022. Right now, in April 2023, I am patiently waiting for the results of JWST Cycle 2, to see if one of my proposals as PI have been accepted!</li> <br><br>
 
   
-  <li> During a master internship at the Max-Planck Institute for Astronomy in Germany, I investigated baseline to cutting-edge image processing techniques. The goal was to <b>retrieve directly-imaged protoplanetary disks in near infrared to look for proto-exoplanets creating the observed substructures inside the disks</b>. This project was carried out in the context of the paper from Assenssio-Torres et al. 2021.
+  <li> During a master internship at the Max-Planck Institute for Astronomy in Germany, I investigated baseline to cutting-edge image processing techniques. The goal was to <b>retrieve directly-imaged protoplanetary disks in near infrared to look for proto-exoplanets creating the observed substructures inside the disks</b>. This project was carried out in the context of the paper from Assenssio-Torres et al. 2021.</li>
 
   
   <p align="center">
   <img src="/fig/PDS70_details.png" height="220" > 
   <br>
-  [PDS 70 processed with the Mayo pipeline described in Pairet et al. 2020]
+  <i> PDS 70 processed with the Mayo pipeline described in Pairet et al. 2020. </i>
   <br>
   </p>
 
 
-  <li> I led an <b>in-depth direct-imaging and spectroscopic characterization on the young exoplanetary system HD 95086</b>, recently published (Desgrange et al. 2022). 
+  <li> I led an <b>in-depth direct-imaging and spectroscopic characterization on the young exoplanetary system HD 95086</b>, recently published (Desgrange et al. 2022). </li>
 
     
 </ul> 
@@ -48,7 +48,8 @@ I have started to work in this field of direct imaging and in particular with th
   <p align="center">
   <img src="/fig/HD95086_overview.png" height="220" > 
   <br>
-  [Composite image of the HD 95086 system]
+  </i> Overview of the HD 95086 system. This is a composite image with in pink the outer belt resolved by ALMA (Su et al. 2017) and in yellow the exoplanet b seen by VLT/SPHERE (Chauvin et al. 2018).
+  <br> Figure from Desgrange et al. 2022.</i>
   <br>
   </p>
 
@@ -58,7 +59,7 @@ After acquiring, processing and analyzing observation, I chose to experience the
  <p align="center">
  <img src="/fig/polar_thd2.png" height="220" >
   <br>
-  [Polarization effects on the THD 2 bench]
+  <i> Polarization effects on the THD 2 bench </i>
   <br>
  </p>
 
@@ -69,9 +70,9 @@ After acquiring, processing and analyzing observation, I chose to experience the
 In observations, my two main projects currently are 
   
 <ul>
-  <li> first,  a survey coupling different detection methods to have the more complete view of the exoplanetary systems investigated, and 
+  <li> first,  a survey coupling different detection methods to have the more complete view of the exoplanetary systems investigated, and </li>
   
-  <li> second, the characterization of a specific debris disk. 
+  <li> second, the characterization of a specific debris disk. </li>
 </ul> 
 
 In instrumentation, I am doing in particular molecular mapping simulations to test different designs to upgrade the low resolution integral field spectrograph (IFS) of SPHERE into a medium resolution IFS.

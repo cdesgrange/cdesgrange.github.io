@@ -18,16 +18,18 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
  
 <br>
 
-<strong>*Co-author: 11 publications, including one in second author*</strong>
+<strong>*Co-author: 12 publications, including one in second author*</strong>
 
-  Palma-Bifani, Chauvin, Bonnefoy, ..., <b>Desgrange</b> et al., 2023, 670, A90, to Astronomy and Astrophysics, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...670A..90P/abstract">Peering into the young planetary system AB Pic. Atmosphere, orbit, obliquity, and second planetary candidate</a></i>.
+  Landman, Snellen, Keller, ..., and <b>Desgrange</b>, C. 2023, Astronomy and Astrophysics, 675, A157, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.157L/abstract">Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation. Young gas giants in emission</a></i>.
+
+  Palma-Bifani, Chauvin, Bonnefoy, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, 670, A90,  <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...670A..90P/abstract">Peering into the young planetary system AB Pic. Atmosphere, orbit, obliquity, and second planetary candidate</a></i>.
    
   Le Coroller, Nowak, Wagner, ..., <b>Desgrange</b>  et al., 2022, Astronomy and Astrophysics, 667, A142, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...667A.142L/abstract">Efficiently combining α CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hours NEAR campaign</a></i>
   
    Chen, Choquet, Vigan, ...,  <b>Desgrange</b> et al. 2022, Proceedings of the SPIE, 666, A32, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A..32X/abstract">Reference-star differential imaging on SPHERE/IRDIS</a></i>
         
   Gallenne, <b>Desgrange</b>, Milli, et al., 2022, Astronomy and Astrophysics, 665, A41, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..41G/abstract">Probing the innermost region of the AU Microscopii debris disc</a></i>
-  
+
   Gratton, Keller, Diolaiti, ...,  <b>Desgrange</b> et al. 2022, Proceedings of the SPIE, 12184, 121844F <i><a href="https://ui.adsabs.harvard.edu/abs/2022SPIE12184E..4FG/abstract">MedRes: a new MEDium RESolution integral field spectrograph for SPHERE</a></i>
 
   Boccaletti, Chauvin, Wildi, ...,  <b>Desgrange</b> et al. 2022, Proceedings of the SPIE, 12184, 121841S, <i><a href="https://ui.adsabs.harvard.edu/abs/2022SPIE12184E..1SB/abstract">Upgrading the high contrast imaging facility SPHERE: science drivers and instrument choices</a></i>

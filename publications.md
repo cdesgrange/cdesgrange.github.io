@@ -4,13 +4,13 @@ title: publications
 permalink: /publications/
 ---
 
-I currently have <b>two refeered publications as first-author</b> and <b>eleven as co-author</b>. Excepted one publication, all are in the field of Exoplanets. 
+I currently have <b>two refereed publications as first-author</b> and <b>thirteen as co-author</b>. In addition, in May 2023 I submitted in Astronomy and Astrophysics a paper as first-author on the architectures of planetary systems with inner (<1 a.u.) planets.
 
-When I was an undergraduated student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
+Excepted one publication, all are in the field of Exoplanets and Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
 
 <br>
 
-<strong>*First author: 2 publications*</strong> 
+<strong>*First-author: 2 publications*</strong> 
 
   <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, 664, A139, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.139D/abstract">In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</a></i>.
  
@@ -18,7 +18,9 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
  
 <br>
 
-<strong>*Co-author: 12 publications, including one in second author*</strong>
+<strong>*Co-author: 13 publications, including one in second author*</strong>
+
+ Stasevic, Milli, Mazoyer, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, accepted, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230805613S/abstract">An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS</a></i>.
 
   Landman, Snellen, Keller, ..., and <b>Desgrange</b>, C. 2023, Astronomy and Astrophysics, 675, A157, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.157L/abstract">Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation. Young gas giants in emission</a></i>.
 
@@ -26,7 +28,7 @@ When I was an undergraduated student, I expressed interest in astronomy and astr
    
   Le Coroller, Nowak, Wagner, ..., <b>Desgrange</b>  et al., 2022, Astronomy and Astrophysics, 667, A142, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...667A.142L/abstract">Efficiently combining α CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hours NEAR campaign</a></i>
   
-   Chen, Choquet, Vigan, ...,  <b>Desgrange</b> et al. 2022, Proceedings of the SPIE, 666, A32, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A..32X/abstract">Reference-star differential imaging on SPHERE/IRDIS</a></i>
+   Xie, Choquet, Vigan, ...,  <b>Desgrange</b> et al. 2022, Proceedings of the SPIE, 666, A32, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A..32X/abstract">Reference-star differential imaging on SPHERE/IRDIS</a></i>
         
   Gallenne, <b>Desgrange</b>, Milli, et al., 2022, Astronomy and Astrophysics, 665, A41, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..41G/abstract">Probing the innermost region of the AU Microscopii debris disc</a></i>
 

@@ -4,9 +4,13 @@ title: publications
 permalink: /publications/
 ---
 
-I currently have <b>two refereed publications as first-author</b> and <b>thirteen as co-author</b>. In addition, in May 2023 I submitted in Astronomy and Astrophysics a paper as first-author on the architectures of planetary systems with inner (<1 a.u.) planets.
+I currently have <b>two refereed publications as first-author</b> and <b>thirteen as co-author</b>. In addition, in May 2023 I <b>submitted in Astronomy and Astrophysics a paper as first-author on the architectures of planetary systems</b> with inner (<1 a.u.) planets.
 
 Excepted one publication, all are in the field of Exoplanets and Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
+
+
+The full list of my peer-reviewed publications is available on ADS <a href="https://ui.adsabs.harvard.edu/public-libraries/KEgz9235Tk2LZEjG4jaJmw">here</a> and the list of not refereed publications <a href="https://ui.adsabs.harvard.edu/public-libraries/2iQXCqujSYaePuAXLA_rJQ">here</a>
+
 
 <br>
 
@@ -28,7 +32,7 @@ Excepted one publication, all are in the field of Exoplanets and Disks. When I w
    
   Le Coroller, Nowak, Wagner, ..., <b>Desgrange</b>  et al., 2022, Astronomy and Astrophysics, 667, A142, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...667A.142L/abstract">Efficiently combining α CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hours NEAR campaign</a></i>
   
-   Xie, Choquet, Vigan, ...,  <b>Desgrange</b> et al. 2022, Proceedings of the SPIE, 666, A32, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A..32X/abstract">Reference-star differential imaging on SPHERE/IRDIS</a></i>
+   Xie, Choquet, Vigan, ...,  <b>Desgrange</b> et al. 2022, Astronomy and Astrophysics, 666, A32, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A..32X/abstract">Reference-star differential imaging on SPHERE/IRDIS</a></i>
         
   Gallenne, <b>Desgrange</b>, Milli, et al., 2022, Astronomy and Astrophysics, 665, A41, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..41G/abstract">Probing the innermost region of the AU Microscopii debris disc</a></i>
 
@@ -48,7 +52,6 @@ Excepted one publication, all are in the field of Exoplanets and Disks. When I w
 
 <br>
 
-The complete list of my publications is available on ADS <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDesgrange%2C%20C%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_author=(author_facet_hier%3A%220%2FDesgrange%2C%20C%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=author%3A%22Desgrange%2C%20C%22&sort=date%20desc%2C%20bibcode%20desc">here</a>.
 
 
 Last update: April 19, 2023

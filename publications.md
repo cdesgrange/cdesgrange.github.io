@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-I currently have <b>two refereed publications as first-author</b> and <b>thirteen as co-author</b>. In addition, in May 2023 I <b>submitted in Astronomy and Astrophysics a paper as first-author on the architectures of planetary systems</b> with inner (<1 a.u.) planets.
+I currently have <b>two refereed publications as first-author</b> and <b>thirteen as co-author</b>. In addition, in May 2023 I <b>submitted in Astronomy and Astrophysics a paper as first-author on the architectures of planetary systems</b> with inner (<1 a.u.) planets. This work is recommended to publication after further, moderate, revision.
 
 Excepted one publication, all are in the field of Exoplanets and Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
 
@@ -14,7 +14,7 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <br>
 
-<strong>*First-author: 2 publications*</strong> 
+<strong>*First-author: 2 publications (and 1 submitted and recommended to publication, Desgrange, Milli, Chauvin, Henning et al.)* </strong> 
 
   <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, 664, A139, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.139D/abstract">In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</a></i>.
  

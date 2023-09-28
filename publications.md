@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-I currently have <b>two refereed publications as first-author</b> and <b>thirteen as co-author</b>. In addition, in May 2023 I <b>submitted in Astronomy and Astrophysics a paper as first-author on the architectures of planetary systems</b> with inner (<1 a.u.) planets. This work is recommended to publication after further, moderate, revision.
+I currently have <b>two refereed publications (+ one recommended to publication) as first-author</b> and <b>fourteen as co-author</b>. 
 
 Excepted one publication, all are in the field of Exoplanets and Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: cosmology and exoplanets. That is why my first publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I focus now my research on the imaging of Exoplanets and Disks, from instrumentation to observation and characterization.</b>
 
@@ -14,15 +14,19 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <br>
 
-<strong>*First-author: 2 publications (and 1 submitted and recommended to publication, Desgrange, Milli, Chauvin, Henning et al.)* </strong> 
+<strong>*First-author: 2 publications (+ 1 recommended to publication)* </strong> 
 
+  <b>Desgrange</b>, Milli, Chauvin, et al., 2023, Astronomy and Astrophysics, recommended for publication, <i>Planetary system architectures with low-mass inner planets: Direct imaging exploration of mature systems beyond 1 au</i>.
+ 
   <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, 664, A139, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.139D/abstract">In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</a></i>.
  
   <b>Desgrange</b>, Heinesen, and Buchert, 2019, International Journal of Modern Physics D, 28, 1950143, <i><a href="https://ui.adsabs.harvard.edu/abs/2019IJMPD..2850143D/abstract">Dynamical spatial curvature as a fit to Type Ia supernovae</a></i>.
  
 <br>
 
-<strong>*Co-author: 13 publications, including one in second author*</strong>
+<strong>*Co-author: 14 publications, including one in second author*</strong>
+
+ Matthews, Bonnefoy, Xie, <b>Desgrange</b> et al., 2023,  Astronomy and Astrophysics, accepted, <i><a href="https://arxiv.org/pdf/2309.15158.pdf">The first scattered light images of HD 112810, a faint debris disk in the Sco-Cen association</a></i>.
 
  Stasevic, Milli, Mazoyer, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, accepted, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230805613S/abstract">An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS</a></i>.
 

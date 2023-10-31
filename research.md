@@ -48,7 +48,7 @@ I have started to work in this field of direct imaging and in particular with th
   <p align="center">
   <img src="/fig/HD95086_overview.png" height="220" > 
   <br>
-  </i> Overview of the HD 95086 system. This is a composite image with in pink the outer belt resolved by ALMA (Su et al. 2017) and in yellow the exoplanet b seen by VLT/SPHERE (Chauvin et al. 2018).
+  <i> Overview of the HD 95086 system. This is a composite image with in pink the outer belt resolved by ALMA (Su et al. 2017) and in yellow the exoplanet b seen by VLT/SPHERE (Chauvin et al. 2018).
   <br> Figure from Desgrange et al. 2022.</i>
   <br>
   </p>
@@ -65,15 +65,21 @@ After acquiring, processing and analyzing observation, I chose to experience the
 
  <br>  <br>
 
-<b>During my Ph.D., I keep developing expertise both in high-contrast imaging observations and instrumentation. </b>
+<b>During my Ph.D., I continue to develop expertise both in high-contrast imaging observations and instrumentation. </b>
   
 In observations, my two main projects currently are 
   
 <ul>
   <li> first,  a survey coupling different detection methods to have the more complete view of the exoplanetary systems investigated, and </li>
   
-  <li> second, the characterization of a specific debris disk. </li>
+  <li> second, the characterization of a complex and enigmatic debris disk. </li>
 </ul> 
 
 In instrumentation, I am doing in particular molecular mapping simulations to test different designs to upgrade the low resolution integral field spectrograph (IFS) of SPHERE into a medium resolution IFS.
+
+I am part of the consortia SPHERE, SPHERE+ and SHARK-NIR. Recently, I have submitted several proposals, with the following facilities VLT/SPHERE, JWST, HST and soon (November 10, 2023) LBT/SHARK-NIR. I am currently waiting for the results of ESO P113 and JWST Cycle 3.
+
+
+
+
 

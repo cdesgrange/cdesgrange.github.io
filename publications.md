@@ -16,7 +16,7 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <strong>*First-author: 3 publications* </strong> 
 
-  <b>Desgrange</b>, Milli, Chauvin, et al., 2023, Astronomy and Astrophysics, accepted for publication and soon on arxiv, <i>Planetary system architectures with low-mass inner planets: Direct imaging exploration of mature systems beyond 1 au</i>.
+  <b>Desgrange</b>, Milli, Chauvin, et al., 2023, Astronomy and Astrophysics, accepted for publication, <i><a href=" https://ui.adsabs.harvard.edu/abs/2023arXiv231006035D/abstract"> Planetary system architectures with low-mass inner planets: Direct imaging exploration of mature systems beyond 1 au</a></i>.
  
   <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, 664, A139, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.139D/abstract">In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</a></i>.
  
@@ -26,9 +26,9 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <strong>*Co-author: 14 publications, including one in second author*</strong>
 
-  Matthews, Bonnefoy, Xie, <b>Desgrange</b> et al., 2023,  Astronomy and Astrophysics, accepted, <i><a href="https://arxiv.org/pdf/2309.15158.pdf">The first scattered light images of HD 112810, a faint debris disk in the Sco-Cen association</a></i>.
+  Matthews, Bonnefoy, Xie, <b>Desgrange</b> et al., 2023,  Astronomy and Astrophysics, accepted, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230915158M/abstract">The first scattered light images of HD 112810, a faint debris disk in the Sco-Cen association</a></i>.
 
-  Stasevic, Milli, Mazoyer, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, 678, A8, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230805613S/abstract">An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS</a></i>.
+  Stasevic, Milli, Mazoyer, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, 678, A8, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...678A...8S/abstract">An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS</a></i>.
 
   Landman, Snellen, Keller, ..., and <b>Desgrange</b>, C. 2023, Astronomy and Astrophysics, 675, A157, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.157L/abstract">Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation. Young gas giants in emission</a></i>.
 
@@ -55,6 +55,4 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
   Le Coroller, Nowak, Delorme, ..., <b>Desgrange</b>  et al., 2020, Astronomy and Astrophysics, 639, A113, <i><a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...639A.113L/abstract">K-Stacker: an algorithm to hack the orbital parameters of planets hidden in high-contrast imaging. First applications to VLT/SPHERE multi-epoch observations</a></i>
 
 <br>
-
-
-Last update: October 4, 2023
+Last update: October 31, 2023

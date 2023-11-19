@@ -9,7 +9,7 @@ Download <a href="/Resume_Desgrange_Celia.pdf" target="_blank"> Resume.pdf</a>
 
 
 <h3>Education </h3>
-<strong>2021-2024: Philosophiae Doctor in Astronomy and Astrophysics</strong>
+<strong>Oct. 2021- Sept. 2024: Philosophiae Doctor in Astronomy and Astrophysics</strong>
 
 <b>Ph. D. on the Architecture of planetary systems by direct imaging of disks and exoplanets with the SPHERE instrument at the VLT, and in the context of the SPHERE+ upgrade. </b> <br> 
 Co-supervision between the  <i>Institut de Planétologie et d'Astrophysique de Grenoble (IPAG), Grenoble, France* <i> and the  </i>Max-Planck Institute for Astronomy (MPIA), Heidelberg, Germany </i>
@@ -108,6 +108,19 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
  
  <h3> Conferences and workshops </h3>
  <ul> 
+
+ <li> December 2023: <b>Open Problems in the Astrophysics of Gas Giants</b> conference <i>(Puerto Natales, Chile)</i>
+ <br> Contributed talk: Architecture of planetary systems: How do inner low-mass planets form?
+ </li>
+
+ <li> August 2023: <b>JWST Cycle 3 Debris disk proposal</b> workshop <i>(Heidelberg, Germany)</i>
+ <br> Contributed talk: Architecture of planetary systems: How do inner low-mass planets form?
+ </li>
+
+ <li> June 2023: <b>Week of the French astronomy (SF2A)}</b> conference <i>(Strasbourg, France)</i>
+ <br> Contributed talk: The intriguing double-belt system HD 120326 
+ </li>
+         
  <li> January 2023: <b>Exosystèmes III</b>  <i>(Marseille, France)</i>
  <br> Contributed talk: In-depth study on the young multi-belt system HD 95086 hosting (at least) one giant planet
  </li>
@@ -142,12 +155,24 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
  <br> 
  
  <h3> Outreach </h3>
- <ul>   
- <li> Conference on the Exoplanets to the organization SAFGA (August 2022)
+ <ul>  
+ <li> Talk "First discoveries in exoplanets" during the open day of the Max Planck Institute for Astronomy (October 2023),
+ <i>  Heidelberg, Germany </i>  
+ </li> 
+ 
+ <li> Conference "From childhood dream to exoplanet detection: doing research in astrophysics" to  students, their parents and teachers (May 2023),
+ <i>  Jean Sturm High-school, Strasbourg, France </i>  
+ </li> 
+
+ <li> Conference "What is a PhD? What deals my PhD with? All started for me with my research experience in Chile, a country of flourishing observatories” to  student part of an astrophysics club (November 2022),
+ <i>  Jean Sturm High-school, Strasbourg, France </i>  
+ </li> 
+  
+ <li> Conference on the Exoplanets to the organization SAFGA (August 2022),
  <i>  Chalet de la Perheux, Alsace, France </i>  
  </li> 
   
- <li> Conference on the Exoplanets to the organization SAFGA (August 2021)
+ <li> Conference on the Exoplanets to the organization SAFGA (August 2021),
  <i>  Bellefosse, Alsace, France </i>  
  </li> 
   

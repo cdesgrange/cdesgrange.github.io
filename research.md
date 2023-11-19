@@ -26,7 +26,7 @@ I have started to work in this field of direct imaging and in particular with th
 <b> An observer in astrophysics wears several hats: from writing the proposal and making the observation blocks, to the data acquisition, processing and analysis. I enjoy experiencing these different jobs.</b> In particular,  
 
 <ul>
-  <li> In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. I submitted ESO proposals with SPHERE, one being accepted and executed in summer 2022. Right now, in April 2023, I am patiently waiting for the results of JWST Cycle 2, to see if one of my proposals as PI have been accepted!</li> <br><br>
+  <li> In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. I submitted ESO proposals with SPHERE, one being accepted and executed in summer 2022. Recently, I have submitted several proposals, with the facilities VLT/SPHERE, JWST, HST and LBT/SHARK-NIR. I am currently waiting for the results. </li> <br><br>
 
   
   <li> During a master internship at the Max-Planck Institute for Astronomy in Germany, I investigated baseline to cutting-edge image processing techniques. The goal was to <b>retrieve directly-imaged protoplanetary disks in near infrared to look for proto-exoplanets creating the observed substructures inside the disks</b>. This project was carried out in the context of the paper from Assenssio-Torres et al. 2021.</li>
@@ -77,7 +77,7 @@ In observations, my two main projects currently are
 
 In instrumentation, I am doing in particular molecular mapping simulations to test different designs to upgrade the low resolution integral field spectrograph (IFS) of SPHERE into a medium resolution IFS.
 
-I am part of the consortia SPHERE, SPHERE+ and SHARK-NIR. Recently, I have submitted several proposals, with the following facilities VLT/SPHERE, JWST, HST and soon (November 10, 2023) LBT/SHARK-NIR. I am currently waiting for the results of ESO P113 and JWST Cycle 3.
+I am part of the consortia SPHERE, SPHERE+ and SHARK-NIR. 
 
 
 

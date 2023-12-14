@@ -26,7 +26,7 @@ I have started to work in this field of direct imaging and in particular with th
 <b> An observer in astrophysics wears several hats: from writing the proposal and making the observation blocks, to the data acquisition, processing and analysis. I enjoy experiencing these different jobs.</b> In particular,  
 
 <ul>
-  <li> In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. I submitted ESO proposals with SPHERE, one being accepted and executed in summer 2022. Recently, in Fall 2023, I have submitted several proposals, with the facilities VLT/SPHERE, JWST, HST and LBT/SHARK-NIR. I am currently waiting for the results. </li> <br>
+  <li> In 2019, I had the chance to go at Paranal to observe with SPHERE in visitor mode. I submitted ESO proposals with SPHERE, one being accepted and executed in summer 2022. In Fall 2023, I have submitted several proposals, with the facilities VLT/SPHERE, JWST, HST and LBT/SHARK-NIR+LMIRCam. My two proposals with LBT/SHARK-NIR+LMIRCam were accepted, and I am waiting the results for the others. </li> <br>
   
   <li> During a master internship at the Max-Planck Institute for Astronomy in Germany, I investigated baseline to cutting-edge image processing techniques. The goal was to <b>retrieve directly-imaged protoplanetary disks in near infrared to look for proto-exoplanets creating the observed substructures inside the disks</b>. This project was carried out in the context of the paper from Assenssio-Torres et al. 2021.</li>
 

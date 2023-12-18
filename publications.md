@@ -28,11 +28,11 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
   Milli, Choquet, Tazaki, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, accepted,  <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231202000M/abstract">The polarisation properties of the HD 181327 debris ring. Evidence for sub-micron particles from scattered light observations</a></i>.
   
-  Matthews, Bonnefoy, Xie, <b>Desgrange</b> et al., 2023,  Astronomy and Astrophysics, accepted, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230915158M/abstract">The first scattered light images of HD 112810, a faint debris disk in the Sco-Cen association</a></i>.
+  Matthews, Bonnefoy, Xie, <b>Desgrange</b> et al., 2023,  Astronomy and Astrophysics, 679, A58, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230915158M/abstract">The first scattered light images of HD 112810, a faint debris disk in the Sco-Cen association</a></i>.
 
   Stasevic, Milli, Mazoyer, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, 678, A8, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...678A...8S/abstract">An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS</a></i>.
 
-  Landman, Snellen, Keller, ..., and <b>Desgrange</b>, C. 2023, Astronomy and Astrophysics, 675, A157, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.157L/abstract">Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation. Young gas giants in emission</a></i>.
+  Landman, Snellen, Keller, ..., and <b>Desgrange</b>, 2023, Astronomy and Astrophysics, 675, A157, <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.157L/abstract">Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation. Young gas giants in emission</a></i>.
 
   Palma-Bifani, Chauvin, Bonnefoy, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, 670, A90,  <i><a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...670A..90P/abstract">Peering into the young planetary system AB Pic. Atmosphere, orbit, obliquity, and second planetary candidate</a></i>.
    

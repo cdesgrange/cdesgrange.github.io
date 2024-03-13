@@ -7,8 +7,6 @@ permalink: /resume/
 
 Download <a href="/Resume_Desgrange_Celia.pdf" target="_blank"> Resume.pdf</a>
 
-test 
-
 <h3>Education </h3>
 <strong>Oct. 2021- Sept. 2024: Philosophiae Doctor in Astronomy and Astrophysics</strong>
 

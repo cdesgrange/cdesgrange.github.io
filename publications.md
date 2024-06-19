@@ -26,9 +26,9 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <strong>*Co-author: 16 publications, including one in second author*</strong>
 
-  Palma-Bifani, Chauvin, Borja, ..., <b>Desgrange</b> et al., 2024, Astronomy and Astrophysics, accepted,  <i><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240105491P/abstract">Atmospheric properties of AF Lep b with forward modeling</a></i>.
+  Palma-Bifani, Chauvin, Borja, ..., <b>Desgrange</b> et al., 2024, Astronomy and Astrophysics, 683, A214,  <i><a href="https://ui.adsabs.harvard.edu/abs/2024A&A...683A.214P/abstract">Atmospheric properties of AF Lep b with forward modeling</a></i>.
 
-  Milli, Choquet, Tazaki, ..., <b>Desgrange</b> et al., 2023, Astronomy and Astrophysics, accepted,  <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231202000M/abstract">The polarisation properties of the HD 181327 debris ring. Evidence for sub-micron particles from scattered light observations</a></i>.
+  Milli, Choquet, Tazaki, ..., <b>Desgrange</b> et al., 2024, Astronomy and Astrophysics, 683, A22,  <i><a href="https://ui.adsabs.harvard.edu/abs/2024A&A...683A..22M/abstract">The polarisation properties of the HD 181327 debris ring. Evidence for sub-micron particles from scattered light observations</a></i>.
   
   Matthews, Bonnefoy, Xie, <b>Desgrange</b> et al., 2023,  Astronomy and Astrophysics, 679, A58, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230915158M/abstract">The first scattered light images of HD 112810, a faint debris disk in the Sco-Cen association</a></i>.
 

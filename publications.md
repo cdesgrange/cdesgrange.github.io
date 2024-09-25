@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-I have <b>three refereed publications as a first-author</b> and <b>sixteen as a co-author</b>. 
+I have <b>three refereed publications as a first-author</b> and <b>seventeen as a co-author</b>. 
 
 Excepted one publication, all are in the field of Exoplanets and Circumstellar Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: exoplanets and cosmology. That is why my first-author publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I have now focussed my research on the imaging of Exoplanets and Disks, from instrumentation to observation.</b>
 
@@ -24,7 +24,9 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
  
 <br>
 
-<strong>*Co-author: 16 publications, including one in second author*</strong>
+<strong>*Co-author: 17 publications, including two in second author*</strong>
+
+  Baudoz, <b>Desgrange</b>, Galicher, Laginja, 2024, Proceedings of the SPIE, 13092, 130926L, <i><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13092/3020010/Polarization-effects-on-high-contrast-imaging--measurements-on-THD2/10.1117/12.3020010.short">Polarization effects on high contrast imaging: measurements on THD2 bench</a></i>.
 
   Palma-Bifani, Chauvin, Borja, ..., <b>Desgrange</b> et al., 2024, Astronomy and Astrophysics, 683, A214,  <i><a href="https://ui.adsabs.harvard.edu/abs/2024A&A...683A.214P/abstract">Atmospheric properties of AF Lep b with forward modeling</a></i>.
 
@@ -59,4 +61,4 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
   Le Coroller, Nowak, Delorme, ..., <b>Desgrange</b>  et al., 2020, Astronomy and Astrophysics, 639, A113, <i><a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...639A.113L/abstract">K-Stacker: an algorithm to hack the orbital parameters of planets hidden in high-contrast imaging. First applications to VLT/SPHERE multi-epoch observations</a></i>
 
 <br>
-Last update: January 12, 2024
+Last update: September 25, 2024

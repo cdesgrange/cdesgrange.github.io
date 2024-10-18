@@ -14,7 +14,7 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <br>
 
-<strong>*First-author: 3 publications* </strong> 
+<strong>*First-author: 3 publications (+1 submitted in October 2024)* </strong> 
 
   <b>Desgrange</b>, Milli, Chauvin, et al., 2023, Astronomy and Astrophysics, 680, A64, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231006035D/abstract"> Planetary system architectures with low-mass inner planets: Direct imaging exploration of mature systems beyond 1 au</a></i>.
  

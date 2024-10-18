@@ -9,7 +9,7 @@ My research focuses on better understanding planetary system architectures, usin
 My main questions of interests:
 - What is the diversity of planetary system architectures? What does it tell us about planet formation and evolution? How can we relate it to the origin of our Solar System?
 
-- How doe the morphologies of debris disks constrain the underlying planet population?
+- How do the morphologies of debris disks constrain the underlying planet population?
 
 On November 14, I will start as a Fellow at the European Southern Observatory in Chile, with observational duties on the Very Large Telescope (VLT) in the Atacama desert.
 

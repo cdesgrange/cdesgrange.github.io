@@ -7,6 +7,7 @@ permalink: /resume/
 
 Download <a href="/Resume_Desgrange_Celia.pdf" target="_blank"> Resume.pdf</a>
 
+
 <h3>Education </h3>
 <strong>Oct. 2021- Sept. 2024: Philosophiae Doctor in Astronomy and Astrophysics</strong>
 
@@ -43,6 +44,12 @@ Note: The Preparatory Class program (called CPGE in French) corresponds to two y
 <h3>Experience </h3>
 
 <ul>
+
+<li>2024-2028 (planned), 3+1 years: <b>Fellowship at the European Southern Observatory (ESO)</b>. Observational duties at the Very Large Telescope (VLT) on UT3, and in parallel, pursuit of my research on planetary system architectures.
+  <br> 
+  <i> ESO, Chile</i>
+</li>
+  <br> 
    
 <li>2021-2024, 3 years: <b>Ph.D. in Observation and Instrumentation for Exoplanet and Disks</b> (see the first item in the Education section)
   <br> 

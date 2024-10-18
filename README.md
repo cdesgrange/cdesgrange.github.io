@@ -1,5 +1,5 @@
 # Célia Desgrange's personal website
 
-PhD student in high-contrast observations of exoplanets and disks with the instrument VLT/SPHERE.  
+ESO Fellow in Chile on UT3 (since November 2024). 
 
-I am in co-supervision between IPAG (Grenoble, France) and MPIA (Heidelberg, Germany). My supervisors are Gaël Chauvin, Julien Milli and Thomas Henning.
+I am an observer, imaging exoplanets and disks with various facilities.

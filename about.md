@@ -11,7 +11,7 @@ My name is Célia, I am a French girl of 27 years old.
 
 I am an astrophysicist. By using observations from large telescopes on the ground or in space, my research focuses on how look like planetary systems, how planets form and evolve.
 
-Since November 2024, I am carrying out my first postdoc at the European Southern Observatory (ESO) in Chile as a ESO Fellow. This job allows me to work on my research on exoplanets and circumstellar disks, and observing at the emblematic Very Large Telescope 80 nights/year, as part of my observational duties (on UT3).
+Since November 2024, I have been carrying out my first postdoc at the European Southern Observatory (ESO) in Chile as a ESO Fellow. This job allows me to work on my research on exoplanets and circumstellar disks, and observing at the emblematic Very Large Telescope 80 nights/year, as part of my observational duties (on UT3).
 
 Besides work, I am a traveler, a lover of great outdoors and landscape photographer.
 

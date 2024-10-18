@@ -1,9 +1,9 @@
 # Site settings
 title: Célia Desgrange
-email: desgrange@mpia.de or celia.desgrange@univ-grenoble-alpes.fr
+email: celia.desgrange@univ-grenoble-alpes.fr
 #email: desgrange@mpia.de
 description: > # this means to ignore newlines until "baseurl:"
-  I am a PhD student in high-contrast observations of exoplanets and disks with the instrument VLT/SPHERE at IPAG (Grenoble, France) and MPIA (Heidelberg, Germany).
+  I am an observer, imaging exoplanets and disks with various facilities. I have been an ESO Fellow in Chile on VLT/UT3 since November 2024.
 #baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
 url: "https://cdesgrange.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb

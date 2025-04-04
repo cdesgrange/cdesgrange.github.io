@@ -4,7 +4,7 @@ title: about me
 permalink: /about/
 ---
 <p align="center">
-<img src="/fig/celia_desgrange_adulte.jpg" width="222" >
+<img src="/fig/celia_desgrange_adulte_la_serena_carre.jpg" width="248" >
 </p>
 
 My name is Célia, I am a French girl of 27 years old born in Strasbourg.

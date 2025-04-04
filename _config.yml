@@ -1,9 +1,9 @@
 # Site settings
 title: Célia Desgrange
-email: celia.desgrange@univ-grenoble-alpes.fr
+email: celia.desgrange@eso.org
 #email: desgrange@mpia.de
 description: > # this means to ignore newlines until "baseurl:"
-  I am an astrophysicist. My research focuses on planetary system architectures. I have been an European Southern Observatory Fellow in Chile on VLT/UT3 since November 2024.
+  I am an astronomer. My research focuses on planetary system architectures. I have been a postdoctoral Fellow at the European Southern Observatory in Chile with duties at the VLT since November 2024.
 #baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
 url: "https://cdesgrange.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb

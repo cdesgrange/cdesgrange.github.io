@@ -3,7 +3,6 @@ layout: page
 title: research
 permalink: /research/
 ---
-test
 
 My research focuses on better understanding planetary system architectures, using an observational perspective.
 

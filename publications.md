@@ -4,9 +4,9 @@ title: publications
 permalink: /publications/
 ---
 
-I have <b>three refereed publications as a first-author</b> and <b>seventeen as a co-author</b>. 
+I have <b>four refereed publications as a first-author</b> and <b>seventeen as a co-author</b>. 
 
-Excepted one publication, all are in the field of Exoplanets and Circumstellar Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: exoplanets and cosmology. That is why my first-author publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I have now focussed my research on the imaging of Exoplanets and Disks, from instrumentation to observation.</b>
+Except one publication, all are in the field of Exoplanets and Circumstellar Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: exoplanets and cosmology. That is why my first-author publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I have now focused my research on the direct imaging of Exoplanets and Disks, from an instrumental to observational perspective.</b>
 
 
 The full list of my peer-reviewed publications is available on ADS <a href="https://ui.adsabs.harvard.edu/public-libraries/KEgz9235Tk2LZEjG4jaJmw">here</a> and the list of not refereed publications <a href="https://ui.adsabs.harvard.edu/public-libraries/2iQXCqujSYaePuAXLA_rJQ">here</a>.
@@ -14,8 +14,10 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <br>
 
-<strong>*First-author: 3 publications (+1 submitted in October 2024)* </strong> 
+<strong>*First-author: 4 publications* </strong> 
 
+  <b>Desgrange</b>, Milli, Chauvin, et al., 2025, Astronomy and Astrophysics, accepted, <i><a href=""> Dust populations from 30 to 1 000 au in HD 120326’s debris disk: A panchromatic view with VLT/SPHERE, ALMA, and HST/STIS</a></i>.
+  
   <b>Desgrange</b>, Milli, Chauvin, et al., 2023, Astronomy and Astrophysics, 680, A64, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231006035D/abstract"> Planetary system architectures with low-mass inner planets: Direct imaging exploration of mature systems beyond 1 au</a></i>.
  
   <b>Desgrange</b>, Chauvin, Christiaens et al., 2022, Astronomy and Astrophysics, 664, A139, <i><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.139D/abstract">In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086</a></i>.
@@ -61,4 +63,4 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
   Le Coroller, Nowak, Delorme, ..., <b>Desgrange</b>  et al., 2020, Astronomy and Astrophysics, 639, A113, <i><a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...639A.113L/abstract">K-Stacker: an algorithm to hack the orbital parameters of planets hidden in high-contrast imaging. First applications to VLT/SPHERE multi-epoch observations</a></i>
 
 <br>
-Last update: September 25, 2024
+Last update: April 4, 2025

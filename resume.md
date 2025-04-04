@@ -18,7 +18,7 @@ Co-supervision between the  <i>Institut de Planétologie et d'Astrophysique de G
 <strong>2017-2021 - Ecole Normale Supérieure (ENS) de Lyon and Observatory of Paris (France)</strong>
 
 <ul>
-  <li>Diplom of the ENS de Lyon (2017-2021)
+  <li>Graduate degree of the ENS de Lyon (2017-2021)
   at the <i>ENS de Lyon, France </i></li>
 
   <li><b>Master of Astronomy, Astrophysics and Spatial Engineering</b>, with honors (2019-2020)

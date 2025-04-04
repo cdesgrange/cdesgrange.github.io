@@ -20,3 +20,4 @@ Since November 14, 2024, I have been a Fellow at the European Southern Observato
 
 Previously, I carried out my Ph.D. at the University Grenoble Alpes in France, half-time at the Institut de Planétologie et d'Astrophysiques de Grenoble, and half-time at the Max Planck Institute for Astronomy in Heidelberg, Germany. <b>My Ph.D. aimed to better understand planet formation by peering into the architecture of planetary systems</b>. In practice, I characterized known exoplanets (orbital motion, spectral emission) and dust belts (morphological parameters of the belt, dust properties), and looked for additional exoplanets. I mainly used the SPHERE instrument, coupled to other astronomical facilities (ESO 3.6/HARPS, HST/STIS, ALMA, Gaia, Hipparcos, SHARK-NIR, LMIRCam).
 
+To see details of my work, please go to the Home section and click on any image.

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Célia Desgrange</title>
+    <description>I am an astrophysicist. My research focuses on planetary system architectures. I have been an European Southern Observatory Fellow in Chile on VLT/UT3 since November 2024.
+</description>
+    <link>https://cdesgrange.github.io/</link>
+    <atom:link href="https://cdesgrange.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Apr 2025 18:01:03 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Apr 2025 18:01:03 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Planetary system characterization</title>
+        <description>&lt;p&gt;&lt;b&gt; First-author paper: &lt;/b&gt; &lt;i&gt;&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.139D/abstract&quot;&gt;In-depth direct imaging and spectroscopic characterization of the young Solar System analog HD 95086&lt;/a&gt;&lt;/i&gt;,  Desgrange, Chauvin, Christiaens et al., 2022, Astronomy &amp;amp; Astrophysics.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/HD95086_overview.png&quot; width=&quot;300&quot; height=&quot;300&quot; /&gt;
+&lt;br /&gt; &lt;i&gt; Overview of the system HD 95086. This is a composite image with in pink the outer belt resolved by ALMA (Su et al. 2017) and in yellow the exoplanet b seen by VLT/SPHERE (Chauvin et al. 2018). &lt;br /&gt; Figure from Desgrange et al. 2022. &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;HD 95086 b is an exoplanet of about 4-5 Jupiter masses discovered with the instrument NaCo at the Very Large Telescope in Chile (Rameau et al. 2013b).&lt;/p&gt;
+
+&lt;p&gt;This exoplanet is located at a semi-major axis of about 50 to 70 au to its host star. This is between the two debris belts of the system, with the outer one resolved by ALMA between 106 and 320 au (see Figure) and the inner one derived from fitting of the spectral energy distribution at about 7-10 au (Su et al. 2015, 2017).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/fig_HD95086_sketch_architecture.png&quot; width=&quot;650&quot; /&gt;
+&lt;br /&gt; &lt;i&gt; Sketch of the  architecture of the system HD 95086.  &lt;br /&gt; Credits: Célia Desgrange. &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Its young exolanet is particularly red&lt;/b&gt; which might be caused by the presence of clouds in its atmosphere or a putative debris circumplanetary disk surrounding the planet (Desgrange et al., 2022).&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; At least one or two additional planets are expected in the system due the large cavity&lt;/b&gt;, but we did not discover them. Future observations with the James Webb Space Telescope (JWST) may find it, them, or at least set constraints on their presence. In addition, the JWST will be able to better characterize the spectrum of the known planet HD 95086 b, as it will access for the first time to the 10-15 micronmeter bandwidth with its instrument MIRI. Different JWST programs from the GTO consortium are planned during the first semester of 2023, &lt;i&gt; stay tuned!&lt;/i&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/fig_HD95086_sketch_architecture_ext.png&quot; width=&quot;650&quot; /&gt;
+&lt;br /&gt; &lt;i&gt; Sketch of the architecture of the system HD 95086 with future possible planet detection(s) and spectral characterization from the JWST telescope and its instruments NIRISS (aperture masking imaging mode), and NIRCam and MIRI (both in coronagraphic modes).   &lt;br /&gt; Credits: Célia Desgrange. &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I started to work on this project in Chile in 2019 during a master research internship under the supervision of Gaël Chauvin (Institut de Planétologie et d’Astrophysiques de Grenoble and Universidad de Chile) and Patricio Rojo (Universidad de Chile). 
+The paper was submitted and accepted beginning of 2022, coinciding with the beginning of my PhD.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Apr 2022 20:09:00 +0000</pubDate>
+        <link>https://cdesgrange.github.io/2022/04/23/HD95086/</link>
+        <guid isPermaLink="true">https://cdesgrange.github.io/2022/04/23/HD95086/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Protoplanetary disks</title>
+        <description>&lt;p&gt;&lt;b&gt;Master research project&lt;/b&gt; (5 months at MPIA, Heidelberg, Germany, under the supervision of Faustine Cantalloube and Thomas Henning)&lt;/p&gt;
+
+&lt;p&gt;A large variety of protoplanetary disks have been detected with the instrument VLT/SPHERE, and many of them contain substructures such as cavities, rings or spirals. &lt;b&gt;The origin of these substructures is still unknown. Are they caused by planets, but which are yet unseen? or by some other physical processes?&lt;/b&gt; To date of my Master internship (Sept. 2020-Feb. 2021), only the protoplanetary disk PDS 70 has two confirmed giant proto-planets (Keppler et al., 2018; Müller et al., 2018; Haffert et al. 2019). In this research project, I investigated a sample of fifteen young disks from Asensio-Torres et al. (2021) with the primary goal to discover exoplanets which some are supposed to be detectable or close to be.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/AsensioTorres2021_Fig_sketch_disk.png&quot; height=&quot;800&quot; /&gt;
+&lt;br /&gt; [Sketch from Asensio Torres et al. (2021) representing the sample of protoplanetary disks investigated in their paper and during this Master project. This is the scattered light appearance of the disks in near infrared.]
+&lt;/p&gt;
+
+&lt;p&gt;I applied the latest cutting-edge image post-processing in order to unveil them. Unfortunately, no highly robust candidates appear. I also looked into the morphology of the disks in near infrared through  Angular Differential Imaging (ADI, Marois et al., 2006), a yet unusual technique to post-process directly-imaged disks. Last, the application of six post-processing algorithms on a diverse sample of disks which have been imaged with various observational conditions enables me to compare their performance and robustness. The latest and more breakthrough post-processing MAYONNAISE (Pairet et al., 2021) confirms its state-of-the-art results to provide detailed disk images without distortion under good observational conditions.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/PDS70_details.png&quot; height=&quot;220&quot; /&gt;
+&lt;br /&gt; [My image processing with MAYONNAISE on the benchmark system PDS 70.]
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Brief description of the principles of the Angular Differential Imaging technique and the post-processing MAYONNAISE:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MAYONNAISE (Morphological Analysis Yielding separated Objects iN Near infrAred usIng Sources Estimation) is the first processing of its kind on high-contrast imaging: it separates  both the planetary and disk components based on a morphological analysis and an inverse problem approach (Pairet et al. 2021). MAYONNAISE is based on ADI as it exploits the angular diversity between the star and the circumstellar signals in the image. ADI requires observations acquired in the “pupil-tracking“ mode, in which the circumstellar signals rotate around the star while the stellar light residuals are quasi-static. Hence the stellar light residuals can be subtracted by e.g. removing the median frame of the image sequence (see the Figure below). The higher is the angular variation in the image, the better works ADI and post-processing algorithms (such as MAYONNAISE) based on ADI.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/cadi_pc.png&quot; height=&quot;220&quot; /&gt;
+&lt;br /&gt; [Principle of the ADI technique. Credits: Gaël Chauvin]
+&lt;/p&gt;
+
+&lt;p&gt;The  technique &lt;b&gt;ADI is well suited to retrieve point sources, but not face-on disks&lt;/b&gt; as the disk signal is captured within the median frame because it is spatially extended. Thus, the data suffer significantly from self-subtraction (Milli et al. 2012). To date, disks were retrieve with the technique PDI (Polarization Differential Imaging) mostly for the instruments as VLT/SPHERE or Gemini/GPI. The technique RDI (Referential Differential Imaging) has also been massively applied for other telescopes such as Hubble (Choquet et al. 2014) and is likely booming soon for SPHERE due to ongoing algorithmic development and new observing strategy available for this instrument.&lt;/p&gt;
+
+&lt;p&gt;Hence, one part of the originality of this Master internship was to retrieve various kind of disks imaged with SPHERE in total intensity by using ADI (and not PDI) with the most cutting-edge image processing. &lt;b&gt;Total intensity light images open the  perspective to  retrieve  the  total scattering  phase  function of the dust&lt;/b&gt;, and coupling it to polarized light information,  constrain  deeply the  properties  of  the  micron-sized particles contained in the outer layer of the disk.&lt;/p&gt;
+
+&lt;p&gt;In practice, &lt;b&gt;MAYONNAISE used two different representation basis&lt;/b&gt;, each of one better suited to represent one of the components:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;point-like features as planets&lt;/b&gt; are represented in pixel-basis as point sources,&lt;/li&gt;
+
+  &lt;li&gt;&lt;b&gt;extended features as disks are represented in a wavelet basis&lt;/b&gt;, and in particular the so-called shearlet basis as more appropriate for direct-imaging data as consisting in radial wavelet vectors.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;p&gt;Moreover, MAYONNAISE uses an adapted function called the &lt;b&gt;Huberloss function&lt;/b&gt; to describe the statistic noise. Close to the coronagraph, the noise is Laplacian as it is of high intensities, while it is Gaussian distributed far from the coronagraph as of smaller intensities (Pairet et al., 2019).&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 Apr 2022 15:39:40 +0000</pubDate>
+        <link>https://cdesgrange.github.io/2022/04/22/protoplanetary-disk/</link>
+        <guid isPermaLink="true">https://cdesgrange.github.io/2022/04/22/protoplanetary-disk/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SPHERE</title>
+        <description>&lt;p&gt;&lt;b&gt;For my research, I mainly use the high-contrast imaging instrument SPHERE&lt;/b&gt; (Beuzit et al., 2019) at the Very Large Telescope in Chile to image exoplanets or disks.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/sphere.jpeg&quot; height=&quot;300&quot; /&gt;
+&lt;br /&gt;
+[Sketch from the instrument SPHERE. Credit: ESO]
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;High-contrast imaging instruments are complex and composed of different parts, which all play a critical role to improve the detection limits to detect fainter objects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the adaptive optics system to correct for the atmospheric turbulence&lt;/li&gt;
+  &lt;li&gt;the coronagraph to remove most of the starlight and reveal faint companions or disk structures&lt;/li&gt;
+  &lt;li&gt;the imaging systems: a dual-band imager (IRDIS, Dohlen et al., 2008), an integral field spectrograph (IFS, Claudi et al., 2008), and an polarimeter (ZIMPOL, Thalmann et al., 2008). Both IRDIS and the IFS work in near-infrared (Y to K band i.e. 0.95 µm to 2.3 µm), while ZIMPOL works in the visible and beginning of the near infrared.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After seven years of operations, SPHERE is one of the most efficient disk and exoplanet imager worldwide. Learn more about SPHERE &lt;a href=&quot;https://www.eso.org/public/france/teles-instr/paranal-observatory/vlt/vlt-instr/sphere/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Apr 2022 22:00:00 +0000</pubDate>
+        <link>https://cdesgrange.github.io/2022/04/20/instrumentation/</link>
+        <guid isPermaLink="true">https://cdesgrange.github.io/2022/04/20/instrumentation/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How do low-mass exoplanets form?</title>
+        <description>&lt;p&gt;&lt;b&gt; First-author paper: &lt;/b&gt; &lt;i&gt;&lt;a href=&quot; https://ui.adsabs.harvard.edu/abs/2023arXiv231006035D/abstract&quot;&gt; Planetary system architectures with low-mass inner planets: Direct imaging exploration of mature systems beyond 1 au&lt;/a&gt;&lt;/i&gt;, Desgrange, Milli et al., Astronomy &amp;amp; Astrophysics, accepted.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/fig_subsat_sketch_architecture.png&quot; width=&quot;400&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The discovery of planets orbiting at less than 1 au from their host star and less massive than Saturn in various exoplanetary systems, different  from our Solar System, revolutionized our theories of planetary formation. &lt;b&gt;The fundamental question is whether these close-in low-mass planets could have formed in-situ at typically less than 1 au, or whether they formed further out in the planet-forming disk and migrated inwards. &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Exploring the occurrence rate of giant planets in systems hosting such low-mass planets may help us to address their origin. In case of a formation beyond the snow line, followed by inward migration, the occurrence of close-in low-mass planets could be correlated or anti-correlated with the presence of an outer giant planet supporting or halting the migration process.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/fig_intro_subsat.png&quot; width=&quot;500&quot; /&gt;
+ &lt;br /&gt;  &lt;i&gt; Low-mass planets orbiting at small periods in the systems of our sample. We added the confirmed planets in orange (blue) if  their minimal mass only (absolute mass) is known, and in gray unconfirmed planets.  &lt;br /&gt; Figure from Desgrange et al. 2023 &lt;/i&gt; &lt;br /&gt;  &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;We carried out a direct imaging survey with the instrument VLT/SPHERE to look for outer giant planets and brown dwarf companions in 27 systems hosting close-in low-mass planets discovered by radial velocity.&lt;/b&gt; Our sample is composed of very nearby (&amp;lt; 20 pc) planetary systems, orbiting G-, K- and M-type mature (500 Myr–10 Gyr) stellar hosts. The direct imaging data reduction and analysis were performed homogeneously to search for point sources and derive robust statistical detection limits. All companion candidates were then analyzed and classified. The final detection performances were globally considered in combination with radial velocity (HARPS) and astrometric (Gaia+Hipparcos) sensitivity.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/detlim_pedag_GKM_smooth.png&quot; width=&quot;800&quot; /&gt; 
+ &lt;br /&gt;  &lt;i&gt; 
+Comparison of the sensitivity of the direct imaging (DI, red), proper motion anomaly and Gaia astrometric excess noise (PMa+AEN, blue) and radial velocity (RV, purple) detections methods on our survey. We took the median of the detection probabilities at 10%, 50%, and 90% the M-stars (left) and the GK-stars (right). &lt;br /&gt; Figure from Desgrange et al. 2023 &lt;/i&gt; &lt;br /&gt;  &lt;br /&gt;  
+&lt;/p&gt;
+
+&lt;p&gt;Different detection techniques provide diverse physical information on the exoplanet, and particularly a measurement of the dynamical mass, the luminosity and the atmospheric properties, which can help to constrain theoretical models of formation and evolution. Current state-of-the-art high-contrast imaging instrumentation are mainly sensitive to companions down to 20 MJup around mature stars.  For the decades to come, the James Webb Space Telescope with the MIRI instrument or the forthcoming high-contrast imagers such as METIS (2030+) or PCS (2035+) on the ELT will pave the way for the observation in thermal and/or reflected light, and the demographics characterization of more mature and smaller planets around very nearby stars.
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 24 Jan 2022 20:09:00 +0000</pubDate>
+        <link>https://cdesgrange.github.io/2022/01/24/low-mass_Exoplanets/</link>
+        <guid isPermaLink="true">https://cdesgrange.github.io/2022/01/24/low-mass_Exoplanets/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Limitations from polarization effects</title>
+        <description>&lt;p&gt;&lt;b&gt;Master research project&lt;/b&gt; (4 months at Observatoire de Paris, Paris, France, under the supervision of Pierre Baudoz and Raphaël Galicher)&lt;/p&gt;
+
+&lt;p&gt;Fifteen years after the first-ever image of an exoplanet by Chauvin et al. (2004) with the VLT/NaCo telescope and instrument, second generation instruments are currently operational to directly image exoplanets with high angular resolution and high contrast imaging techniques, such as SPHERE at the VLT (Chile), GPI at Gemini South (Chile) but being currently relocated to Gemini North (Hawaii) and SCExAO at Subaru (Hawaii).&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Developing such instruments require testbed and the Très Haute Dynamique 2 bench (THD2 bench) is unique in Europe for high-contrast imaging. However, polarization effects are present on the bench and cause aberrations.&lt;/b&gt; They could be linked to the &lt;b&gt;Goos-Hänchen and Imbert-Fedorov effects&lt;/b&gt; which both cause spatial shifts and angular deviations, respectively longitudinal and transversely. Although these effects have already been investigated in the literature on optic and quantum mechanic perspectives, there are rather new in an astronomical instrumentation viewpoint and questions remain on their level on the THD 2 bench. To date of my master’s thesis (spring 2020), no study has been made on these effects for a whole optical bench, with displacements not caused by only one dielectric or metallic mirror, but a dozen.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/polar_4effects_concise.png&quot; height=&quot;220&quot; /&gt;
+&lt;br /&gt; &lt;i&gt; Scheme from Töppel et al. 2013 &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;On the THD2 bench, the first measurements for two crossed linear polarization suggest the presence of polarization effects which could be seen as a 940-nm displacement between two polarizations and which is consistent with what I observed in weak measurements. Moreover, I computed predicted values of the Goos-Hänchen and Imbert-Fedorov displacements based on theory for the whole THD 2 bench and confronted it to experiments. 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/polar_thd2.png&quot; height=&quot;220&quot; /&gt;
+&lt;br /&gt; &lt;i&gt; Coronagraphic images for a 785 nm laser and two linear orthogonal polarizations on the THD2 optical bench. On the left, the corrections have been made to have a deep dark hole, with detection limits optimized. On the right, the measure has been recorded only a couple of seconds later, applying only a rotation of 90° of the polarizer placed just in front of the camera. &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Description of the Goos-Hänchen and Imbert-Fedorov effects:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;The Goos-Hänchen (GH) effect corresponds to the &lt;i&gt;spatial and angular&lt;/i&gt; displacement &lt;i&gt;in&lt;/i&gt; the plane of incidence of the beam. &lt;/b&gt;
+The eigenvectors of these displacements correspond to the linear polarizations p or s-polarization, i. e. TM or TE-polarization.
+&lt;b&gt;Regarding the Imbert-Fedorov (IF) effect, the &lt;i&gt;spatial and angular&lt;/i&gt; displacement are for this one &lt;i&gt;normal&lt;/i&gt; to the plane of incidence.&lt;/b&gt;
+The eigenvectors for the spatial displacements correspond to the circular polarizations &lt;i&gt;left&lt;/i&gt; and &lt;i&gt;right&lt;/i&gt;. 
+As for the angular deviation, the eigenvectors correspond to the combinations of linear polarizations oriented at 45° to the linear polarizations p and s  (Bliokh &amp;amp; Aiello, 2013; Goswami et al., 2014).&lt;/p&gt;
+
+&lt;p&gt;Both of the GH and IF effects depend on the refractive index, the incident angle and the wavelength. The IF effect depend also on the nature of the beam (Gaussian, Bessel…).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/polar_4effects_detailed.png&quot; height=&quot;350&quot; /&gt;
+&lt;br /&gt; &lt;i&gt; Schemes from Bliokh &amp;amp; Aiello, 2013 &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 30 May 2020 20:09:00 +0000</pubDate>
+        <link>https://cdesgrange.github.io/2020/05/30/polarization_shift/</link>
+        <guid isPermaLink="true">https://cdesgrange.github.io/2020/05/30/polarization_shift/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>AU Mic system</title>
+        <description>&lt;p&gt;&lt;b&gt; Second-author paper: &lt;/b&gt; &lt;i&gt;  &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..41G/abstract&quot;&gt;Probing the innermost region of the AU Microscopii debris disc&lt;/a&gt;&lt;/i&gt;, Gallenne,  Desgrange et al., 2022, Astronomy &amp;amp; Astrophysics.&lt;/p&gt;
+
+&lt;p&gt;The AU Mic system is young and has a nearby M-dwarf star harbouring a circumstellar debris disc. It has two discovered planets, AU Mic b and c on orbital periods of 8.5 days and 18.9 days (semi-major axes of 0.07 au and 0.11), respectively. In addition, large-scale structures within the disc were discovered and are moving outwards at high velocity.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/fig_intro_AUMic.png&quot; width=&quot;500&quot; /&gt;
+&lt;br /&gt;  &lt;i&gt; The debris disk AU Mic seen edge-on. Image credits: ESO, NASA, ESA. &lt;br /&gt;  Paper: Boccaletti et al. 2015, Nature,  “Fast-moving features in the debris disk around AU Microscopii&quot;. &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We aim to study this system with the highest spatial resolution in order to probe the innermost regions and to search for additional low-mass companions or set detection limits. The star was observed with two different high-angular resolution techniques probing complementary spatial scales. We obtained new Ks-band sparse aperture masking (SAM) observations with VLT/SPHERE-SAM, which we combined with interferometric data from VLT/NaCo-SAM, VLTI/PIONIER and VLTI/GRAVITY, and direct-imaging observation from VLT/SPHERE, see Figures below.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/Gallenne2022_AUMic_Fig6_DI+interfero.png&quot; height=&quot;300&quot; /&gt;
+&lt;br /&gt;  &lt;i&gt; Detection limits constraints on AU Mic by combining direct-imaging and interferometric measurements. &lt;br /&gt; Figure 6 from Gallenne,  &lt;b&gt; Desgrange  &lt;/b&gt; et al. (2022)  &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Adding the radial-velocity (RV) measurements enable us to even better constrain the presence of giant companions below 1 au. For instance, a companion of 3  Jupiter-mass at a semi-major axis of 0.1 au is ruled out by RV data.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/fig/Gallenne2022_AUMic_Fig5_RV+DI+interfero.png&quot; height=&quot;300&quot; /&gt;
+&lt;br /&gt;  &lt;i&gt; Detection limits constraints on AU Mic by combining radial velocity, direct-imaging and interferometric measurements. &lt;br /&gt; Figure 5 from Gallenne,  &lt;b&gt; Desgrange  &lt;/b&gt; et al. (2022) &lt;/i&gt; &lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My work was in this project was to compute the detection limits on the AU Mic system from the interferometric observations VLT/SPHERE-SAM, VLT/NaCo-SAM, VLTI/PIONIER and VLTI/GRAVITY, direct-imaging observation VLT/SPHERE, and radial-velocity data. I used the tool pyMESS2 (pythonized version of MESS2, see Lannier et al. 2017)&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 23 Mar 2020 20:09:00 +0000</pubDate>
+        <link>https://cdesgrange.github.io/2020/03/23/AUMic/</link>
+        <guid isPermaLink="true">https://cdesgrange.github.io/2020/03/23/AUMic/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

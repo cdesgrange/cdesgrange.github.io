@@ -13,7 +13,7 @@ I am an astronomer. By using observations from large telescopes on the ground or
 
 Since November 2024, I have been carrying out my first postdoc at the European Southern Observatory (ESO) in Chile as a ESO Fellow. This job allows me to work on my research on exoplanets and circumstellar disks, and observing at the emblematic Very Large Telescope 80 nights/year, as part of my observational duties (on the Unit Telescope 3).
 
-Besides work, I am a explorer, enjoying the great outdoors and capturing them on my camera.
+Besides work, I am a explorer, enjoying the great outdoors and capturing them with my camera.
 
 One part of me loves do social activities as for instance playing ultimate-frisbee, bouldering, or hanging out. The other part likes to be on its own, swimming, hiking or reading. I am keen to read whatever the kind of books: fantasy, science-fiction, fiction, biography, historic, scientific or literature. One of my favorite books is la Horde du Contrevent from Alain Damasio. 
 

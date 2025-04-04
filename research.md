@@ -7,11 +7,11 @@ permalink: /research/
 My research focuses on better understanding planetary system architectures, using an observational perspective.
 
 My <b>main questions of interests</b>:
-- What is the diversity of planetary system architectures? What does it tell us about planet formation and evolution? How can we relate it to the origin of our Solar System?
++ What is the diversity of planetary system architectures? What does it tell us about planet formation and evolution? How can we relate it to the origin of our Solar System?
 
-- How do the morphologies of debris disks constrain the underlying planet population?
++ How do the morphologies of debris disks constrain the underlying planet population?
 
-- Are we alone in the Universe?
++ Are we alone in the Universe?
 
 
 From an <b>observational</b> perspective, <b>my main objects of interest are young and nearby (<150 pc) systems</b>. From a few millions years old as the protoplanetary disks which are the birth places where exoplanets form, to about twenty million year old when the gas in the system has vanished but the putative exoplanets or debris disks emit still enough light in the near infrared to be observed. At a few giga year old, direct-imaging observations have poor sensitivity because current facilities are mainly sensitive to thermal emission of exoplanets. Thus, around old stars, direct imaging detect mainly companions close to the regime of brown dwarves to date. This is changing with the MIRI instrument on the JWST, by accessing the mid-infrared wavelengths coupled to the highest sensitivity of space telescopes, and in future with the high-contrast imagers to be installed on the ELT.

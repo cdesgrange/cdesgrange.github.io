@@ -16,7 +16,7 @@ The full list of my peer-reviewed publications is available on ADS <a href="http
 
 <strong>*First-author: 4 publications* </strong> 
 
-  <b>Desgrange</b>, Milli, Chauvin, et al., 2025, Astronomy and Astrophysics, accepted, <i><a href=""> Dust populations from 30 to 1 000 au in HD 120326’s debris disk: A panchromatic view with VLT/SPHERE, ALMA, and HST/STIS</a></i>.
+  <b>Desgrange</b>, Milli, Chauvin, et al., 2025, Astronomy and Astrophysics, accepted, <i><a href="https://ui.adsabs.harvard.edu/abs/arXiv:2504.15352"> Dust populations from 30 to 1000 au in the debris disk of HD 120326: A panchromatic view with VLT/SPHERE, ALMA, and HST/STIS</a></i>.
   
   <b>Desgrange</b>, Milli, Chauvin, et al., 2023, Astronomy and Astrophysics, 680, A64, <i><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231006035D/abstract"> Planetary system architectures with low-mass inner planets: Direct imaging exploration of mature systems beyond 1 au</a></i>.
  

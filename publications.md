@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-I have <b>four refereed publications as a first-author</b> and <b>seventeen as a co-author</b>. 
+I have <b>four refereed publications as a first-author</b> and <b>nineteen as a co-author</b>. 
 
 Except one publication, all are in the field of Exoplanets and Circumstellar Disks. When I was an undergraduate student, I expressed interest in astronomy and astrophysics in particular in two fields: exoplanets and cosmology. That is why my first-author publication in 2019 based on my Bachelor's thesis deals with averaged inhomogeneous cosmology. However, <b>I have now focused my research on the direct imaging of Exoplanets and Disks, from observational and instrumental perspectives.</b>
 
